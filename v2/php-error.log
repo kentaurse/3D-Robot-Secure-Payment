@@ -1,0 +1,23 @@
+[25-Oct-2022 11:52:52 Asia/Tokyo] success: 
+[25-Oct-2022 11:52:52 Asia/Tokyo] order_id: 0
+[25-Oct-2022 11:52:52 Asia/Tokyo] payments_info: {"1660483999":"0"}
+[25-Oct-2022 11:52:52 Asia/Tokyo] order_results: ["{\"gid\":\"0\",\"rst\":\"2\",\"ap\":\"\",\"ec\":\"ER050\",\"god\":\"\",\"cod\":\"\",\"am\":\"0\",\"tx\":\"0\",\"sf\":\"0\",\"ta\":\"0\"}"]
+[25-Oct-2022 11:52:52 Asia/Tokyo] total: 0
+[25-Oct-2022 11:52:52 Asia/Tokyo] shipping_info: 0
+[25-Oct-2022 11:52:52 Asia/Tokyo] intent: order
+[25-Oct-2022 11:52:52 Asia/Tokyo] payee_info: []
+[25-Oct-2022 11:52:52 Asia/Tokyo] payer_info: []
+[25-Oct-2022 11:52:52 Asia/Tokyo] create_at: 2022-10-25 11:52:52
+[25-Oct-2022 11:52:52 Asia/Tokyo] updated_at: 2022-10-25 11:52:52
+[25-Oct-2022 12:01:00 Asia/Tokyo] success: 1
+[25-Oct-2022 12:01:00 Asia/Tokyo] order_id: 64164020
+[25-Oct-2022 12:01:00 Asia/Tokyo] payments_info: {"1660483999":"64164020"}
+[25-Oct-2022 12:01:00 Asia/Tokyo] order_results: ["{\"gid\":\"64164020\",\"rst\":\"1\",\"ap\":\"TestMod\",\"ec\":\"\",\"god\":\"64162684\",\"cod\":\"\",\"am\":\"19800\",\"tx\":\"0\",\"sf\":\"0\",\"ta\":\"19800\"}"]
+[25-Oct-2022 12:01:00 Asia/Tokyo] total: 19800
+[25-Oct-2022 12:01:00 Asia/Tokyo] shipping_info: 0
+[25-Oct-2022 12:01:00 Asia/Tokyo] intent: order
+[25-Oct-2022 12:01:00 Asia/Tokyo] payee_info: []
+[25-Oct-2022 12:01:00 Asia/Tokyo] payer_info: []
+[25-Oct-2022 12:01:00 Asia/Tokyo] create_at: 2022-10-25 12:01:00
+[25-Oct-2022 12:01:00 Asia/Tokyo] updated_at: 2022-10-25 12:01:00
+[12-Apr-2023 09:24:49 Asia/Tokyo] PHP Notice:  A non well formed numeric value encountered in /home/r3870200/public_html/ec-apo.com/wp-content/themes/iconic_tcd062/v2/paymentValidate.php on line 383
