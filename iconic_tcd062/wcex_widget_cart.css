@@ -1,0 +1,225 @@
+/*************************************/
+/*   Widget Cart Style
+/*************************************/
+
+/* ウィジェットのタイトルと枠 */
+.sidebar .widget_wcex_widgetcart .widget_title {
+	height: 30px;
+	padding-top: 0px;
+}
+
+ul.wcex_widgetcart_body li,
+.widget_wcex_widgetcart ul.ucart_widget_body li,
+.sidebar .widget_wcex_widgetcart ul.ucart_widget_body li,
+#sidebar .widget_wcex_widgetcart ul.ucart_widget_body li{
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	list-style-type:none;
+	margin-left:0px;
+	list-style-image: none;
+	background-image: none;
+	text-indent: 0px;
+	padding-left: 0px;
+	margin-bottom:10px;
+}
+
+ul.wcex_widgetcart_body,
+.widget_wcex_widgetcart ul.ucart_widget_body,
+.sidebar .widget_wcex_widgetcart ul.ucart_widget_body,
+#sidebar .widget_wcex_widgetcart ul.ucart_widget_body {
+	padding: 5px 5px 10px 5px;
+	text-align: center;
+}
+/*
+------------------------------------------------
+*/
+
+/* ウィジェットボディー内のスタイル */
+#wgct_row a {
+	color: #3F8BA5;
+}
+
+#wgct_row a:hover {
+	color: #0099E3;
+	text-decoration: none;
+}
+
+.widgetcart_rows {
+	margin: 0px;
+	padding: 0px;
+	line-height: 1em;
+	border-collapse: collapse;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #dddddd;
+	background-color: #FFFFFF;
+	width: 100%;
+}
+
+.widgetcart_rows a.cart_trush{
+	height: 10px;
+	width: 12px;
+}
+
+.widgetcart_rows th.header {
+	font-weight: normal;
+} 
+
+.widgetcart_rows th.header, 
+.widgetcart_rows th.total_price {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #dddddd;
+	border-bottom-color: #dddddd;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.widgetcart_rows th.total_price {
+	font-size: 20px;
+    color: #d80000;
+	text-align: right;
+	padding-right: 5px;
+	white-space: nowrap;
+}
+
+.widgetcart_rows th.item, 
+.widgetcart_rows th.quant, 
+.widgetcart_rows th.trush, 
+.widgetcart_rows th.price {
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #dddddd;
+	border-bottom-color: #dddddd;
+    font-size: 12px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	font-weight: normal;
+}
+
+.widgetcart_rows th.quant, 
+.widgetcart_rows th.price {
+	white-space: nowrap;
+}
+
+.widgetcart_rows td.widgetcart_item {
+	text-align: left;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #dddddd;
+	padding-left: 5px;
+	font-size: 14px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+.widgetcart_rows td.widgetcart_quant {
+	padding-right: 5px;
+}
+
+.widgetcart_rows td.widgetcart_quant, 
+.widgetcart_rows td.widgetcart_trush, 
+.widgetcart_rows td.widgetcart_price {
+	white-space: nowrap;
+	text-align: right;
+	border-bottom-width: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #dddddd;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+.widgetcart_rows td.widgetcart_price {
+	padding-right: 2px;
+}
+
+.widgetcart_rows th.footer {
+	font-weight: normal;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #dddddd;
+	text-align: center;
+	font-size: 0.9em;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #dddddd;
+}
+
+#wdgctToCheckout a {
+	line-height: 30px;
+	font-weight: nomal;
+	color: #FFFFFF;
+    font-size: 14px;
+	background-color: #999999;
+	text-align: center;
+	display: block;
+	height: 30px;
+	width: 120px;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	text-decoration: none;
+}
+
+#wdgctToCheckout a:hover { color: #FFFFFF; 	background-color: #777777; }
+
+#wdgctToCart { margin-bottom: 5px; }
+#wdgctToCart a {
+	color: #3333FF;
+	text-decoration: none;
+}
+
+#wgct_point{
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCCCCC;
+}
+
+/*
+------------------------------------------------
+*/
+
+/* カート投入時メッセージボックス */
+#wgct_alert.update_box {
+	padding: 10px;
+	height: 80px;
+	width: 200px;
+	border: 1px solid #CC6600;
+	background-color: #FFF5E8;
+	font-weight: bold;
+	color: #003366;
+	display: none;
+}
+
+/* 削除時メッセージボックス */
+#wgct_alert.delete_box {
+	padding: 10px;
+	height: 80px;
+	width: 200px;
+	border: 1px solid #CC6600;
+	background-color: #FFF5E8;
+	font-weight: bold;
+	color: #003366;
+	display: none;
+}
+
+/* 完了メッセージボックス */
+#wgct_alert.completion_box {
+	padding: 10px;
+	height: 80px;
+	width: 200px;
+	border: 1px solid #CC6600;
+	background-color: #ECF0FF;
+	font-weight: bold;
+	color: #003366;
+	display: none;
+}
+

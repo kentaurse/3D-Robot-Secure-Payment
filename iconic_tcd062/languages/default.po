@@ -1,0 +1,4983 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: design-plus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 22:00+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: design plus\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_attr_e;esc_attr__\n"
+"X-Generator: Poedit 2.0.8\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: _*\n"
+
+#: 404.php:19 template-parts/breadcrumb.php:231
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: admin/contents-builder.php:13 admin/contents-builder.php:16
+#: admin/theme-options.php:942
+msgid "Blog"
+msgstr ""
+
+#: admin/contents-builder.php:32 admin/theme-options.php:247
+msgid "Blog archive"
+msgstr ""
+
+#: admin/contents-builder.php:40 admin/theme-options.php:741
+msgid "All posts"
+msgstr ""
+
+#: admin/contents-builder.php:41 admin/contents-builder.php:662
+#: admin/theme-options-tools.php:981 admin/theme-options.php:725
+#: widget/styled_post_list_tab.php:28
+msgid "Category"
+msgstr ""
+
+#: admin/contents-builder.php:42 admin/theme-options-tools.php:966
+#: admin/theme-options.php:729 functions/admin_column.php:34
+#: functions/admin_column.php:64 functions/recommend.php:9
+#: widget/styled_post_list_tab.php:25 widget/styled_post_list_tab.php:48
+msgid "Recommend post"
+msgstr ""
+
+#: admin/contents-builder.php:43 admin/theme-options.php:733
+#: functions/admin_column.php:67 widget/styled_post_list_tab.php:26
+msgid "Recommend post2"
+msgstr ""
+
+#: admin/contents-builder.php:44 admin/theme-options.php:737
+#: functions/admin_column.php:70 widget/styled_post_list_tab.php:27
+msgid "Pickup post"
+msgstr ""
+
+#: admin/contents-builder.php:47 admin/contents-builder.php:143
+#: admin/theme-options.php:766 widget/styled_post_list_tab.php:327
+msgid "Date (DESC)"
+msgstr ""
+
+#: admin/contents-builder.php:48 admin/contents-builder.php:144
+#: admin/theme-options.php:770 widget/styled_post_list_tab.php:328
+msgid "Date (ASC)"
+msgstr ""
+
+#: admin/contents-builder.php:49 admin/contents-builder.php:145
+#: admin/theme-options.php:774 widget/styled_post_list_tab.php:329
+msgid "Random"
+msgstr ""
+
+#: admin/contents-builder.php:54 admin/theme-options.php:258
+#: pagebuilder/modules/banner.php:11
+msgid "Banner"
+msgstr ""
+
+#: admin/contents-builder.php:78 pagebuilder/modules/three_boxes.php:11
+msgid "Three boxes"
+msgstr ""
+
+#: admin/contents-builder.php:119 admin/theme-options.php:208
+msgid "Carousel slider"
+msgstr ""
+
+#: admin/contents-builder.php:122
+msgid "Products"
+msgstr ""
+
+#: admin/contents-builder.php:148 admin/contents-builder.php:149
+#: admin/contents-builder.php:150 admin/contents-builder.php:151
+#: admin/contents-builder.php:152 admin/contents-builder.php:153
+#: admin/contents-builder.php:154 admin/contents-builder.php:155
+#: admin/inc/basic.php:105 admin/inc/top.php:165 admin/inc/top.php:208
+msgid " seconds"
+msgstr "秒"
+
+#: admin/contents-builder.php:160
+msgid "Free space"
+msgstr ""
+
+#: admin/contents-builder.php:189
+msgid "Contents Builder"
+msgstr ""
+
+#: admin/contents-builder.php:190
+msgid ""
+"Please set contents below third block of front page with contents builder."
+msgstr ""
+
+#: admin/contents-builder.php:191
+msgid ""
+"<p>You can build contents freely with this function.</p><p>FIRST STEP: Click "
+"Add content button.<br>SECOND STEP: Select content from dropdown menu to "
+"show on each column.</p><p>You can change row by dragging MOVE button and "
+"you can delete row by clicking DELETE button.</p>"
+msgstr ""
+
+#: admin/contents-builder.php:194
+msgid "Are you sure you want to delete this content?"
+msgstr ""
+
+#: admin/contents-builder.php:202 admin/contents-builder.php:231
+#: pagebuilder/modules/simple_table.php:162 pagebuilder/modules/slider.php:255
+#: pagebuilder/modules/tab.php:376 pagebuilder/modules/tab.php:669
+#: pagebuilder/modules/tab.php:911
+msgid "Move"
+msgstr ""
+
+#: admin/contents-builder.php:203 admin/contents-builder.php:232
+#: functions/welcart_cf.php:59 functions/welcart_cf.php:88
+#: pagebuilder/modules/simple_table.php:163 pagebuilder/modules/slider.php:256
+#: pagebuilder/modules/tab.php:377 pagebuilder/modules/tab.php:670
+#: pagebuilder/modules/tab.php:912 pagebuilder/pagebuilder.php:383
+#: pagebuilder/pagebuilder.php:469 pagebuilder/pagebuilder.php:784
+msgid "Delete"
+msgstr ""
+
+#: admin/contents-builder.php:219 pagebuilder/pagebuilder.php:153
+msgid "Add content"
+msgstr ""
+
+#: admin/contents-builder.php:221 admin/contents-builder.php:439
+#: admin/contents-builder.php:538 admin/contents-builder.php:625
+#: admin/contents-builder.php:763 admin/contents-builder.php:798
+#: admin/contents-builder.php:808 admin/inc/404.php:62 admin/inc/basic.php:18
+#: admin/inc/basic.php:36 admin/inc/basic.php:47 admin/inc/basic.php:58
+#: admin/inc/basic.php:65 admin/inc/basic.php:72 admin/inc/basic.php:87
+#: admin/inc/basic.php:115 admin/inc/basic.php:137 admin/inc/basic.php:151
+#: admin/inc/basic.php:159 admin/inc/basic.php:184 admin/inc/basic.php:195
+#: admin/inc/basic.php:235 admin/inc/basic.php:295 admin/inc/basic.php:341
+#: admin/inc/basic.php:348 admin/inc/blog.php:17 admin/inc/blog.php:51
+#: admin/inc/blog.php:75 admin/inc/blog.php:88 admin/inc/blog.php:119
+#: admin/inc/blog.php:148 admin/inc/blog.php:183 admin/inc/blog.php:212
+#: admin/inc/blog.php:243 admin/inc/footer.php:10 admin/inc/footer.php:30
+#: admin/inc/footer.php:179 admin/inc/header.php:15 admin/inc/header.php:27
+#: admin/inc/header.php:41 admin/inc/header.php:50 admin/inc/header.php:70
+#: admin/inc/header.php:128 admin/inc/header.php:142 admin/inc/logo.php:34
+#: admin/inc/logo.php:65 admin/inc/news.php:21 admin/inc/news.php:44
+#: admin/inc/news.php:66 admin/inc/news.php:82 admin/inc/password.php:39
+#: admin/inc/top.php:157 admin/inc/top.php:168 admin/inc/top.php:211
+#: admin/inc/welcart.php:16 admin/inc/welcart.php:35 admin/inc/welcart.php:67
+#: admin/inc/welcart.php:83 admin/inc/welcart.php:97
+msgid "Save Changes"
+msgstr ""
+
+#: admin/contents-builder.php:264
+msgid "Choose the content"
+msgstr ""
+
+#: admin/contents-builder.php:300
+msgid "This is posts list of blog."
+msgstr ""
+
+#: admin/contents-builder.php:301 admin/contents-builder.php:451
+#: admin/contents-builder.php:550 admin/contents-builder.php:637
+#: admin/contents-builder.php:774
+msgid "Display this content at top page"
+msgstr ""
+
+#: admin/contents-builder.php:304 admin/contents-builder.php:454
+#: admin/contents-builder.php:553 admin/contents-builder.php:640
+#: admin/contents-builder.php:777
+msgid ""
+"To make it a link to jump to this content, set a href attribute to the ID "
+"below."
+msgstr ""
+
+#: admin/contents-builder.php:305 admin/contents-builder.php:455
+#: admin/contents-builder.php:554 admin/contents-builder.php:641
+#: admin/contents-builder.php:778
+msgid "ID:"
+msgstr ""
+
+#: admin/contents-builder.php:309 admin/contents-builder.php:471
+#: admin/contents-builder.php:576 admin/contents-builder.php:645
+#: admin/inc/top.php:121 functions/welcart_cf.php:65
+#: pagebuilder/modules/banner.php:67 pagebuilder/modules/googlemap.php:304
+#: pagebuilder/modules/headline.php:11 pagebuilder/modules/headline.php:48
+#: pagebuilder/modules/image_overlay.php:182
+#: pagebuilder/modules/simple_table.php:169 pagebuilder/modules/tab.php:409
+#: pagebuilder/modules/tab.php:685 pagebuilder/modules/three_boxes.php:69
+msgid "Headline"
+msgstr ""
+
+#: admin/contents-builder.php:310 admin/contents-builder.php:646
+msgid "Set the heading."
+msgstr ""
+
+#: admin/contents-builder.php:315 admin/contents-builder.php:333
+#: admin/contents-builder.php:418 admin/contents-builder.php:476
+#: admin/contents-builder.php:493 admin/contents-builder.php:513
+#: admin/contents-builder.php:581 admin/contents-builder.php:598
+#: admin/contents-builder.php:650 admin/contents-builder.php:717
+#: admin/contents-builder.php:742 admin/inc/404.php:39 admin/inc/basic.php:322
+#: admin/inc/footer.php:55 admin/inc/top.php:63 admin/inc/top.php:136
+#: admin/inc/top.php:188 functions/page_cf2.php:95
+#: pagebuilder/modules/banner.php:79 pagebuilder/modules/banner.php:114
+#: pagebuilder/modules/banner.php:144 pagebuilder/modules/catchcopy.php:63
+#: pagebuilder/modules/googlemap.php:150 pagebuilder/modules/googlemap.php:223
+#: pagebuilder/modules/googlemap.php:316 pagebuilder/modules/googlemap.php:367
+#: pagebuilder/modules/googlemap.php:422 pagebuilder/modules/headline.php:63
+#: pagebuilder/modules/image_overlay.php:194
+#: pagebuilder/modules/image_overlay.php:265 pagebuilder/modules/tab.php:193
+#: pagebuilder/modules/tab.php:207 pagebuilder/modules/tab.php:221
+#: pagebuilder/modules/tab.php:235 pagebuilder/modules/tab.php:249
+#: pagebuilder/modules/tab.php:263 pagebuilder/modules/tab.php:504
+#: pagebuilder/modules/tab.php:518 pagebuilder/modules/tab.php:697
+#: pagebuilder/modules/tab.php:748 pagebuilder/modules/three_boxes.php:81
+#: pagebuilder/modules/three_boxes.php:116 widget/site_info.php:291
+msgid "Font color"
+msgstr ""
+
+#: admin/contents-builder.php:319 admin/contents-builder.php:337
+#: admin/contents-builder.php:480 admin/contents-builder.php:497
+#: admin/contents-builder.php:585 admin/contents-builder.php:602
+#: admin/contents-builder.php:654 admin/inc/top.php:59
+#: functions/page_cf2.php:65 functions/page_cf2.php:85
+#: pagebuilder/modules/banner.php:71 pagebuilder/modules/banner.php:106
+#: pagebuilder/modules/catchcopy.php:53 pagebuilder/modules/googlemap.php:308
+#: pagebuilder/modules/googlemap.php:359 pagebuilder/modules/headline.php:53
+#: pagebuilder/modules/image_overlay.php:186
+#: pagebuilder/modules/image_overlay.php:257 pagebuilder/modules/tab.php:689
+#: pagebuilder/modules/tab.php:740 pagebuilder/modules/three_boxes.php:73
+#: pagebuilder/modules/three_boxes.php:108
+msgid "Font size"
+msgstr ""
+
+#: admin/contents-builder.php:323 admin/contents-builder.php:341
+#: admin/contents-builder.php:484 admin/contents-builder.php:501
+#: admin/contents-builder.php:589 admin/contents-builder.php:606
+#: admin/contents-builder.php:658 admin/inc/top.php:81
+#: pagebuilder/modules/banner.php:75 pagebuilder/modules/banner.php:110
+#: pagebuilder/modules/catchcopy.php:58 pagebuilder/modules/googlemap.php:312
+#: pagebuilder/modules/googlemap.php:363 pagebuilder/modules/headline.php:58
+#: pagebuilder/modules/image_overlay.php:190
+#: pagebuilder/modules/image_overlay.php:261 pagebuilder/modules/tab.php:693
+#: pagebuilder/modules/tab.php:744 pagebuilder/modules/three_boxes.php:77
+#: pagebuilder/modules/three_boxes.php:112
+msgid "Font size for mobile"
+msgstr ""
+
+#: admin/contents-builder.php:327 admin/contents-builder.php:488
+#: admin/contents-builder.php:593 admin/inc/404.php:32
+#: functions/page_cf2.php:75 functions/welcart_cf.php:41
+#: functions/welcart_cf.php:66 pagebuilder/modules/banner.php:102
+#: pagebuilder/modules/googlemap.php:125 pagebuilder/modules/googlemap.php:355
+#: pagebuilder/modules/image_overlay.php:253 pagebuilder/modules/tab.php:736
+#: pagebuilder/modules/three_boxes.php:104 widget/site_info.php:285
+msgid "Description"
+msgstr ""
+
+#: admin/contents-builder.php:328
+msgid "Set a description. It is displayed to the right of the heading."
+msgstr ""
+
+#: admin/contents-builder.php:348
+msgid "Post type"
+msgstr ""
+
+#: admin/contents-builder.php:349
+msgid "Select the type of post you want to display."
+msgstr ""
+
+#: admin/contents-builder.php:350
+msgid ""
+"Recommended posts and Pickup posts can be set from post edit screen / quick "
+"edit."
+msgstr ""
+
+#: admin/contents-builder.php:378 admin/contents-builder.php:683
+msgid "Display order"
+msgstr ""
+
+#: admin/contents-builder.php:379 admin/contents-builder.php:684
+msgid "Select the order of the post from date (DESC) or date (ASC) or random."
+msgstr ""
+
+#: admin/contents-builder.php:390 admin/contents-builder.php:695
+#: admin/inc/news.php:79 admin/inc/top.php:178
+msgid "Post number"
+msgstr ""
+
+#: admin/contents-builder.php:391 admin/contents-builder.php:696
+msgid "Set the number of displayed articles"
+msgstr ""
+
+#: admin/contents-builder.php:393 admin/inc/blog.php:55 admin/inc/news.php:48
+#: admin/inc/top.php:176 admin/inc/welcart.php:71
+#: pagebuilder/modules/tab.php:960
+msgid "Display setting"
+msgstr ""
+
+#: admin/contents-builder.php:394
+msgid "Set the display of each item."
+msgstr ""
+
+#: admin/contents-builder.php:398 admin/inc/blog.php:60
+#: admin/inc/welcart.php:76 widget/styled_post_list_tab.php:338
+msgid "Display category"
+msgstr ""
+
+#: admin/contents-builder.php:402 admin/inc/blog.php:59 admin/inc/news.php:56
+#: admin/inc/top.php:179 admin/inc/welcart.php:75
+#: widget/styled_post_list_tab.php:334
+msgid "Display date"
+msgstr ""
+
+#: admin/contents-builder.php:406 widget/styled_post_list_tab.php:342
+msgid "Exclude welcart items"
+msgstr ""
+
+#: admin/contents-builder.php:409 admin/contents-builder.php:733
+#: admin/inc/top.php:180
+msgid "Archive link"
+msgstr ""
+
+#: admin/contents-builder.php:410
+msgid ""
+"You can set the button to archive page displayed at upper right corner of "
+"the post list. "
+msgstr ""
+
+#: admin/contents-builder.php:411 admin/contents-builder.php:735
+msgid "Display archive link"
+msgstr ""
+
+#: admin/contents-builder.php:414 admin/contents-builder.php:738
+msgid "Archive link label"
+msgstr ""
+
+#: admin/contents-builder.php:422 admin/contents-builder.php:517
+#: admin/contents-builder.php:721 admin/contents-builder.php:746
+#: admin/inc/basic.php:340 admin/inc/footer.php:27 admin/inc/footer.php:47
+#: admin/inc/header.php:139 admin/inc/top.php:89 admin/inc/top.php:140
+#: admin/inc/top.php:192 pagebuilder/modules/banner.php:148
+#: pagebuilder/modules/googlemap.php:146 pagebuilder/modules/googlemap.php:238
+#: pagebuilder/modules/googlemap.php:426
+#: pagebuilder/modules/image_overlay.php:153 pagebuilder/modules/slider.php:82
+#: pagebuilder/modules/tab.php:197 pagebuilder/modules/tab.php:211
+#: pagebuilder/modules/tab.php:225 pagebuilder/modules/tab.php:239
+#: pagebuilder/modules/tab.php:253 pagebuilder/modules/tab.php:267
+#: pagebuilder/modules/tab.php:508 pagebuilder/modules/tab.php:522
+#: pagebuilder/pagebuilder.php:567 pagebuilder/pagebuilder.php:1833
+#: widget/site_info.php:293
+msgid "Background color"
+msgstr ""
+
+#: admin/contents-builder.php:426 admin/contents-builder.php:521
+#: admin/contents-builder.php:725 admin/contents-builder.php:750
+#: admin/inc/top.php:144 admin/inc/top.php:196 widget/site_info.php:295
+msgid "Font hover color"
+msgstr ""
+
+#: admin/contents-builder.php:430 admin/contents-builder.php:525
+#: admin/contents-builder.php:729 admin/contents-builder.php:754
+#: admin/inc/top.php:148 admin/inc/top.php:200 widget/site_info.php:297
+msgid "Background hover color"
+msgstr ""
+
+#: admin/contents-builder.php:434 admin/contents-builder.php:533
+#: admin/contents-builder.php:620 admin/contents-builder.php:758
+#: admin/contents-builder.php:793
+msgid "Content background color"
+msgstr ""
+
+#: admin/contents-builder.php:435 admin/contents-builder.php:534
+#: admin/contents-builder.php:621 admin/contents-builder.php:759
+#: admin/contents-builder.php:794
+msgid "Please set the background color of the contents."
+msgstr ""
+
+#: admin/contents-builder.php:440 admin/contents-builder.php:539
+#: admin/contents-builder.php:626 admin/contents-builder.php:764
+#: admin/contents-builder.php:799 admin/contents-builder.php:809
+msgid "Close"
+msgstr ""
+
+#: admin/contents-builder.php:450
+msgid ""
+"This shows the banner that consists of full width image, text and button. "
+msgstr ""
+
+#: admin/contents-builder.php:459 admin/contents-builder.php:564
+#: admin/inc/top.php:14 admin/theme-options.php:703 functions/page_cf2.php:146
+#: pagebuilder/modules/banner.php:57 pagebuilder/modules/googlemap.php:206
+#: pagebuilder/modules/image.php:11 pagebuilder/modules/image.php:33
+#: pagebuilder/modules/image_overlay.php:84 pagebuilder/modules/slider.php:248
+#: pagebuilder/modules/slider.php:262 pagebuilder/modules/tab.php:676
+#: pagebuilder/modules/tab.php:901 pagebuilder/modules/tab.php:918
+#: pagebuilder/modules/three_boxes.php:59
+msgid "Image"
+msgstr ""
+
+#: admin/contents-builder.php:460 admin/contents-builder.php:565
+#: admin/inc/404.php:9 admin/inc/basic.php:173 admin/inc/logo.php:20
+#: admin/inc/logo.php:51 admin/inc/top.php:29 functions/category.php:8
+#: functions/category.php:34 functions/page_cf2.php:27
+#: pagebuilder/modules/banner.php:58 pagebuilder/modules/three_boxes.php:60
+#, php-format
+msgid "Recommend image size. Width:%dpx, Height:%dpx"
+msgstr ""
+
+#: admin/contents-builder.php:466 admin/contents-builder.php:571
+#: admin/inc/404.php:15 admin/inc/basic.php:31 admin/inc/basic.php:179
+#: admin/inc/basic.php:332 admin/inc/blog.php:110 admin/inc/blog.php:139
+#: admin/inc/blog.php:174 admin/inc/blog.php:203 admin/inc/blog.php:234
+#: admin/inc/logo.php:27 admin/inc/logo.php:58 admin/inc/top.php:22
+#: admin/inc/top.php:35 functions/category.php:14 functions/category.php:40
+#: functions/page_cf2.php:257 pagebuilder/modules/includes/media_field.php:45
+#: widget/ad.php:92 widget/site_info.php:267
+msgid "Select Image"
+msgstr ""
+
+#: admin/contents-builder.php:467 admin/contents-builder.php:572
+#: admin/inc/404.php:16 admin/inc/basic.php:32 admin/inc/basic.php:180
+#: admin/inc/basic.php:333 admin/inc/blog.php:111 admin/inc/blog.php:140
+#: admin/inc/blog.php:175 admin/inc/blog.php:204 admin/inc/blog.php:235
+#: admin/inc/logo.php:28 admin/inc/logo.php:59 admin/inc/top.php:23
+#: admin/inc/top.php:36 functions/category.php:15 functions/category.php:41
+#: functions/page_cf2.php:258 pagebuilder/modules/includes/media_field.php:46
+#: widget/ad.php:93 widget/site_info.php:268
+msgid "Remove Image"
+msgstr ""
+
+#: admin/contents-builder.php:472
+msgid "You can set the headline on the left side of the image."
+msgstr ""
+
+#: admin/contents-builder.php:489
+msgid ""
+"You can set the description above the heading on the left side of the image."
+msgstr ""
+
+#: admin/contents-builder.php:505 admin/inc/top.php:129
+msgid "Button"
+msgstr ""
+
+#: admin/contents-builder.php:506
+msgid "You can set the button below the heading on the left side of the image."
+msgstr ""
+
+#: admin/contents-builder.php:509 admin/inc/footer.php:105
+#: admin/inc/footer.php:152 admin/inc/top.php:132 widget/site_info.php:289
+msgid "Button label"
+msgstr ""
+
+#: admin/contents-builder.php:529 admin/contents-builder.php:610
+#: admin/inc/footer.php:109 admin/inc/footer.php:156 admin/inc/top.php:153
+#: pagebuilder/modules/banner.php:163 pagebuilder/modules/googlemap.php:142
+#: pagebuilder/modules/googlemap.php:414
+#: pagebuilder/modules/three_boxes.php:139
+msgid "Link URL"
+msgstr ""
+
+#: admin/contents-builder.php:530 admin/contents-builder.php:611
+msgid "You can set destination url."
+msgstr ""
+
+#: admin/contents-builder.php:532 admin/contents-builder.php:614
+#: pagebuilder/modules/banner.php:167 pagebuilder/modules/image.php:71
+#: pagebuilder/modules/image_overlay.php:122 pagebuilder/modules/slider.php:278
+#: pagebuilder/modules/three_boxes.php:143
+msgid "Use target blank for this link"
+msgstr ""
+
+#: admin/contents-builder.php:549
+msgid "Display three content boxes horizontally."
+msgstr ""
+
+#: admin/contents-builder.php:562
+#, php-format
+msgid "Box%d setting"
+msgstr ""
+
+#: admin/contents-builder.php:577
+msgid "Settings for heading at left top of image"
+msgstr ""
+
+#: admin/contents-builder.php:594
+msgid "Settings for description at left top of image, above heading"
+msgstr ""
+
+#: admin/contents-builder.php:636
+msgid "This slider shows posts list or items list."
+msgstr ""
+
+#: admin/contents-builder.php:663
+msgid "Select the category to display."
+msgstr ""
+
+#: admin/contents-builder.php:675
+msgid "All categories"
+msgstr ""
+
+#: admin/contents-builder.php:701 admin/inc/top.php:161
+#: pagebuilder/modules/slider.php:70
+msgid "Slide speed"
+msgstr ""
+
+#: admin/contents-builder.php:702
+msgid "Please set transition speed. (3 to 10 seconds)"
+msgstr ""
+
+#: admin/contents-builder.php:713 pagebuilder/modules/slider.php:75
+msgid "Arrow setting"
+msgstr ""
+
+#: admin/contents-builder.php:714
+msgid "You can set arrow button on slider."
+msgstr ""
+
+#: admin/contents-builder.php:734
+msgid ""
+"You can set the button to recommended product page displayed at right of "
+"headline. Link to the category archive page selected in category selection."
+msgstr ""
+
+#: admin/contents-builder.php:772
+msgid "WYSIWYG editor"
+msgstr ""
+
+#: admin/inc/404.php:6
+msgid "Settings for 404 page"
+msgstr ""
+
+#: admin/inc/404.php:7
+msgid ""
+"The 404 page is displayed when accessing the page with the browser, but the "
+"page does not exist on the website.Please set the header image, catch "
+"phrase, explanation to be displayed on page 404."
+msgstr ""
+
+#: admin/inc/404.php:8 functions/page_cf2.php:26
+msgid "Header image"
+msgstr ""
+
+#: admin/inc/404.php:20 admin/inc/top.php:44 functions/page_cf2.php:35
+msgid "Color of overlay"
+msgstr ""
+
+#: admin/inc/404.php:21
+msgid ""
+"Use overlay, to become easy to read the catchphrase on the image. Please set "
+"the overlay color."
+msgstr ""
+
+#: admin/inc/404.php:23 functions/page_cf2.php:45
+msgid "Opacity of overlay"
+msgstr ""
+
+#: admin/inc/404.php:24
+msgid "Please enter the number 0 - 1.0. (e.g. 0.2)"
+msgstr ""
+
+#: admin/inc/404.php:26 admin/inc/top.php:55 functions/page_cf2.php:55
+#: pagebuilder/modules/catchcopy.php:11 pagebuilder/modules/catchcopy.php:48
+msgid "Catchphrase"
+msgstr ""
+
+#: admin/inc/404.php:27
+msgid "Set a catchphrase to be displayed on the header image."
+msgstr ""
+
+#: admin/inc/404.php:29
+msgid "Font size of catchphrase"
+msgstr ""
+
+#: admin/inc/404.php:30
+msgid "Set font size of catchphrase."
+msgstr ""
+
+#: admin/inc/404.php:33
+msgid "Set a description to be displayed on the header image."
+msgstr ""
+
+#: admin/inc/404.php:36
+msgid "Font size of description"
+msgstr ""
+
+#: admin/inc/404.php:37
+msgid "Set font size of cdescription."
+msgstr ""
+
+#: admin/inc/404.php:40
+msgid "Set font color of catch phrase and description."
+msgstr ""
+
+#: admin/inc/404.php:42 admin/inc/top.php:97
+msgid "Dropshadow"
+msgstr ""
+
+#: admin/inc/404.php:43
+msgid "Set up a drop shadow to be added to the catchphrase and description."
+msgstr ""
+
+#: admin/inc/404.php:46 admin/inc/top.php:100 functions/page_cf2.php:105
+msgid "Dropshadow position (left)"
+msgstr ""
+
+#: admin/inc/404.php:50 admin/inc/top.php:104 functions/page_cf2.php:114
+msgid "Dropshadow position (top)"
+msgstr ""
+
+#: admin/inc/404.php:54 admin/inc/top.php:108 functions/page_cf2.php:123
+msgid "Dropshadow size"
+msgstr ""
+
+#: admin/inc/404.php:58 admin/inc/top.php:112 functions/page_cf2.php:132
+msgid "Dropshadow color"
+msgstr ""
+
+#: admin/inc/basic.php:7
+msgid "Color setting"
+msgstr ""
+
+#: admin/inc/basic.php:8
+msgid ""
+"You can set the colors used in your site in common. You can also set other "
+"colors for buttons and navigations with each theme option."
+msgstr ""
+
+#: admin/inc/basic.php:9
+msgid "Primary color setting"
+msgstr ""
+
+#: admin/inc/basic.php:10
+msgid ""
+"This color is used for pager buttons of archive page, background of heading "
+"for related posts at single pages, background of heading for comments and "
+"background of heading for sidebar widgets."
+msgstr ""
+
+#: admin/inc/basic.php:12
+msgid "Secondary color setting"
+msgstr ""
+
+#: admin/inc/basic.php:13
+msgid "This color is used for hover of link exept for individual settings."
+msgstr ""
+
+#: admin/inc/basic.php:15
+msgid "Link color of post contents"
+msgstr ""
+
+#: admin/inc/basic.php:16
+msgid "This color is used for link texts in single pages."
+msgstr ""
+
+#: admin/inc/basic.php:22
+msgid "Favicon setup"
+msgstr ""
+
+#: admin/inc/basic.php:23
+msgid "Setting for the favicon displayed at browser address bar or tab."
+msgstr ""
+
+#: admin/inc/basic.php:24
+msgid "Favicon file"
+msgstr ""
+
+#: admin/inc/basic.php:24
+msgid " (Recommended size: width:16px, height:16px)"
+msgstr ""
+
+#: admin/inc/basic.php:25
+msgid ""
+"You can use .ico, .png or .gif file, and we recommed you to use .ico file."
+msgstr ""
+
+#: admin/inc/basic.php:40
+msgid "Font type"
+msgstr ""
+
+#: admin/inc/basic.php:41
+msgid "Please set the font type of all text except for headline."
+msgstr ""
+
+#: admin/inc/basic.php:51
+msgid "Font type of headline"
+msgstr ""
+
+#: admin/inc/basic.php:52
+msgid "Please set the font type of headline."
+msgstr ""
+
+#: admin/inc/basic.php:62
+msgid "Emoji setup"
+msgstr ""
+
+#: admin/inc/basic.php:63
+msgid ""
+"We recommend to checkoff this option if you dont use any Emoji in your post "
+"content."
+msgstr ""
+
+#: admin/inc/basic.php:64
+msgid "Use emoji"
+msgstr ""
+
+#: admin/inc/basic.php:69
+msgid "Quicktags settings"
+msgstr ""
+
+#: admin/inc/basic.php:70
+msgid ""
+"If you don't want to use quicktags included in the theme, please uncheck the "
+"box below."
+msgstr ""
+
+#: admin/inc/basic.php:71
+msgid "Use quicktags"
+msgstr ""
+
+#: admin/inc/basic.php:76 functions/page_cf.php:28
+msgid "Sidebar setting"
+msgstr ""
+
+#: admin/inc/basic.php:77
+msgid "You can set the position of sidebar."
+msgstr ""
+
+#: admin/inc/basic.php:91
+msgid "Loading screen setting"
+msgstr ""
+
+#: admin/inc/basic.php:92
+msgid "You can set the load screen displayed during page transition."
+msgstr ""
+
+#: admin/inc/basic.php:93
+msgid "Use load icon."
+msgstr ""
+
+#: admin/inc/basic.php:94
+msgid "Type of loader"
+msgstr ""
+
+#: admin/inc/basic.php:95
+msgid "Please select load icon from 3 types."
+msgstr ""
+
+#: admin/inc/basic.php:101
+msgid "Maximum display time"
+msgstr ""
+
+#: admin/inc/basic.php:102
+msgid ""
+"Please set the maximum display time of the loading screen.<br />Even if all "
+"the content is not loaded, loading screen will disappear automatically after "
+"a lapse of time you have set at follwing."
+msgstr ""
+
+#: admin/inc/basic.php:108
+msgid "Primary loader color"
+msgstr ""
+
+#: admin/inc/basic.php:109
+msgid "Please set the color of load icon."
+msgstr ""
+
+#: admin/inc/basic.php:112
+msgid "Secondary loader color"
+msgstr ""
+
+#: admin/inc/basic.php:119
+msgid "Hover effect settings"
+msgstr ""
+
+#: admin/inc/basic.php:120
+msgid "Hover effect type"
+msgstr ""
+
+#: admin/inc/basic.php:121
+msgid "You can select hover effect from 3 types and set options."
+msgstr ""
+
+#: admin/inc/basic.php:122
+msgid ""
+"<p>Zoom:The thumbnail image is enlarged with the specified enlargement ratio."
+"</p><p>FSlide:The thumbnail image moves horizontally in the direction "
+"specified to the left and right, and the set background color can be seen "
+"through.</p><p>Fade:The image is transmitted with the specified "
+"transmittance, and the set background color can be seen through.</p>"
+msgstr ""
+
+#: admin/inc/basic.php:129
+msgid "Settings for Zoom effect"
+msgstr ""
+
+#: admin/inc/basic.php:130
+msgid "Please set the rate of magnification."
+msgstr ""
+
+#: admin/inc/basic.php:132
+msgid "Rotate images on hover"
+msgstr ""
+
+#: admin/inc/basic.php:133 admin/inc/basic.php:147 admin/inc/basic.php:155
+msgid "Please set the opacity. (0 - 1.0, e.g. 0.5)"
+msgstr ""
+
+#: admin/inc/basic.php:135 admin/inc/basic.php:149 admin/inc/basic.php:157
+msgid "Please set the background color."
+msgstr ""
+
+#: admin/inc/basic.php:140
+msgid "Settings for Slide effect"
+msgstr ""
+
+#: admin/inc/basic.php:141
+msgid "Please set the direction of slide."
+msgstr ""
+
+#: admin/inc/basic.php:154
+msgid "Settings for Fade effect"
+msgstr ""
+
+#: admin/inc/basic.php:166
+msgid "Facebook OGP setting"
+msgstr ""
+
+#: admin/inc/basic.php:167
+msgid "OGP is a mechanism for correctly conveying page information."
+msgstr ""
+
+#: admin/inc/basic.php:168
+msgid "Use OGP"
+msgstr ""
+
+#: admin/inc/basic.php:169
+msgid "To use Facebook OGP please set your app ID."
+msgstr ""
+
+#: admin/inc/basic.php:170
+msgid "Your app ID"
+msgstr ""
+
+#: admin/inc/basic.php:171
+msgid "OGP image"
+msgstr ""
+
+#: admin/inc/basic.php:172
+msgid "This image is displayed for OGP if the page does not have a thumbnail."
+msgstr ""
+
+#: admin/inc/basic.php:188
+msgid "Twitter Cards setting"
+msgstr ""
+
+#: admin/inc/basic.php:189
+msgid "This theme requires Facebook OGP settings to use Twitter cards."
+msgstr ""
+
+#: admin/inc/basic.php:191
+msgid "Use Twitter Cards"
+msgstr ""
+
+#: admin/inc/basic.php:192
+msgid "Your Twitter account name (exclude @ mark)"
+msgstr ""
+
+#: admin/inc/basic.php:193
+msgid "Information about Twitter Cards."
+msgstr ""
+
+#: admin/inc/basic.php:199
+msgid "SNS button setting"
+msgstr ""
+
+#: admin/inc/basic.php:200
+msgid "Please input URL to display the SNS icon and check for RSS button."
+msgstr ""
+
+#: admin/inc/basic.php:201
+msgid "URL setting"
+msgstr ""
+
+#: admin/inc/basic.php:204
+msgid "Your Instagram URL"
+msgstr ""
+
+#: admin/inc/basic.php:208 widget/site_info.php:318
+msgid "Your Twitter URL"
+msgstr ""
+
+#: admin/inc/basic.php:212 widget/site_info.php:322
+msgid "Your Pinterest URL"
+msgstr ""
+
+#: admin/inc/basic.php:216 widget/site_info.php:326
+msgid "Your Facebook URL"
+msgstr ""
+
+#: admin/inc/basic.php:220 widget/site_info.php:330
+msgid "Your Google+ URL"
+msgstr ""
+
+#: admin/inc/basic.php:224 widget/site_info.php:334
+msgid "Your Youtube URL"
+msgstr ""
+
+#: admin/inc/basic.php:228
+msgid "Your Contact page URL (You can use contactto:)"
+msgstr ""
+
+#: admin/inc/basic.php:232 widget/site_info.php:343
+msgid "Display RSS button"
+msgstr ""
+
+#: admin/inc/basic.php:239
+msgid "Social button Setup"
+msgstr ""
+
+#: admin/inc/basic.php:240
+msgid "You can set share buttons at top and bottom of single page."
+msgstr ""
+
+#: admin/inc/basic.php:242
+msgid ""
+"<p>Facebook like button is displayed only when you select Button type 5 "
+"(Default button).</p><p>RSS button is not displayed if you select Button "
+"type 5 (Default button).</p><p>If you use Button type 5 (Default button) and "
+"Button types 1 to 4 together, button design will collapses.</p>"
+msgstr ""
+
+#: admin/inc/basic.php:244
+msgid "Type of button on article top"
+msgstr ""
+
+#: admin/inc/basic.php:245
+msgid ""
+"Please select the button type to be displayed at the top of the article."
+msgstr ""
+
+#: admin/inc/basic.php:255
+msgid "Select the social button to show on article top"
+msgstr ""
+
+#: admin/inc/basic.php:256
+msgid "Please check the button to display at the top of the article."
+msgstr ""
+
+#: admin/inc/basic.php:258 admin/inc/basic.php:282
+msgid "Display twitter button"
+msgstr ""
+
+#: admin/inc/basic.php:259 admin/inc/basic.php:283
+msgid "Display facebook like button - Button type 5 (Default button) only"
+msgstr ""
+
+#: admin/inc/basic.php:260 admin/inc/basic.php:284
+msgid "Display facebook share button"
+msgstr ""
+
+#: admin/inc/basic.php:261 admin/inc/basic.php:285
+msgid "Display google+ button"
+msgstr ""
+
+#: admin/inc/basic.php:262 admin/inc/basic.php:286
+msgid "Display hatena button"
+msgstr ""
+
+#: admin/inc/basic.php:263 admin/inc/basic.php:287
+msgid "Display pocket button"
+msgstr ""
+
+#: admin/inc/basic.php:264 admin/inc/basic.php:288
+msgid "Display feedly button"
+msgstr ""
+
+#: admin/inc/basic.php:265 admin/inc/basic.php:289
+msgid "Display rss button"
+msgstr ""
+
+#: admin/inc/basic.php:266 admin/inc/basic.php:290
+msgid "Display pinterest button"
+msgstr ""
+
+#: admin/inc/basic.php:268
+msgid "Type of button on article bottom"
+msgstr ""
+
+#: admin/inc/basic.php:269
+msgid ""
+"Please select the button type to be displayed at the bottom of the article."
+msgstr ""
+
+#: admin/inc/basic.php:279
+msgid "Select the social button to show on article bottom"
+msgstr ""
+
+#: admin/inc/basic.php:280
+msgid "Please check the button to display at the bottom of the article."
+msgstr ""
+
+#: admin/inc/basic.php:292
+msgid "Setting for the twitter button"
+msgstr ""
+
+#: admin/inc/basic.php:293
+msgid "Set of twitter account. (ex.designplus)"
+msgstr ""
+
+#: admin/inc/basic.php:300
+msgid "Google Maps settings"
+msgstr ""
+
+#: admin/inc/basic.php:301
+msgid ""
+"You can set styles of marker in Google maps, and select default marker or "
+"custom marker."
+msgstr ""
+
+#: admin/inc/basic.php:302
+msgid "API key"
+msgstr ""
+
+#: admin/inc/basic.php:304 pagebuilder/modules/googlemap.php:181
+msgid "Marker type"
+msgstr ""
+
+#: admin/inc/basic.php:315 pagebuilder/modules/googlemap.php:202
+msgid "Custom marker type"
+msgstr ""
+
+#: admin/inc/basic.php:320 pagebuilder/modules/googlemap.php:221
+msgid "Custom marker text"
+msgstr ""
+
+#: admin/inc/basic.php:325 pagebuilder/modules/googlemap.php:227
+msgid "Custom marker image"
+msgstr ""
+
+#: admin/inc/basic.php:326 pagebuilder/modules/googlemap.php:228
+msgid "Recommended size: width:60px, height:20px"
+msgstr ""
+
+#: admin/inc/basic.php:339 pagebuilder/modules/googlemap.php:237
+msgid "Marker style"
+msgstr ""
+
+#: admin/inc/basic.php:345
+msgid "Free input area for user definition CSS."
+msgstr ""
+
+#: admin/inc/basic.php:346
+msgid "Code example:<br /><strong>.example { font-size:12px; }</strong>"
+msgstr ""
+
+#: admin/inc/blog.php:7
+msgid "Blog page basic settings"
+msgstr ""
+
+#: admin/inc/blog.php:8 admin/inc/news.php:8
+msgid "Breadcrumb label"
+msgstr ""
+
+#: admin/inc/blog.php:9
+msgid ""
+"The breadcrumb is displayed at archive and single page. You can change name "
+"of page as you like.(default: Blog)"
+msgstr ""
+
+#: admin/inc/blog.php:11 admin/inc/news.php:15
+msgid "Headline for page header"
+msgstr ""
+
+#: admin/inc/blog.php:12
+msgid "You can set the title of page header in archive and single page."
+msgstr ""
+
+#: admin/inc/blog.php:14 admin/inc/news.php:18
+msgid "Description for page header"
+msgstr ""
+
+#: admin/inc/blog.php:15
+msgid "You can set the description of page header in archive and single page."
+msgstr ""
+
+#: admin/inc/blog.php:21
+msgid "Blog title / contents setting"
+msgstr ""
+
+#: admin/inc/blog.php:22
+msgid "Font size of post title"
+msgstr ""
+
+#: admin/inc/blog.php:23 admin/inc/news.php:27
+msgid "You can set the font size of the single page title."
+msgstr ""
+
+#: admin/inc/blog.php:25
+msgid "Font size of post title for mobile"
+msgstr ""
+
+#: admin/inc/blog.php:26 admin/inc/news.php:30
+msgid "You can set the font size of the single page title for mobile."
+msgstr ""
+
+#: admin/inc/blog.php:28 admin/inc/news.php:32 admin/inc/welcart.php:46
+msgid "Post title color"
+msgstr ""
+
+#: admin/inc/blog.php:29 admin/inc/news.php:33
+msgid "You can set the font color of the single page title."
+msgstr ""
+
+#: admin/inc/blog.php:31
+msgid "Font size of post contents"
+msgstr ""
+
+#: admin/inc/blog.php:32 admin/inc/news.php:36
+msgid "You can set the font size of the single page contents."
+msgstr ""
+
+#: admin/inc/blog.php:34
+msgid "Font size of post contents for mobile"
+msgstr ""
+
+#: admin/inc/blog.php:35 admin/inc/news.php:39
+msgid "You can set the font size of the single page contents for mobile."
+msgstr ""
+
+#: admin/inc/blog.php:37
+msgid "Post contents color"
+msgstr ""
+
+#: admin/inc/blog.php:38 admin/inc/news.php:42
+msgid "You can set the font color of the single page contents."
+msgstr ""
+
+#: admin/inc/blog.php:40 functions/post_cf.php:25
+msgid "Pages link setting"
+msgstr ""
+
+#: admin/inc/blog.php:41
+msgid ""
+"By inserting the tag <! - nextpage -> in the article body, you can split an "
+"article into multiple pages. You can select pagenation, \"Pager\" or \"Read "
+"more button\"."
+msgstr ""
+
+#: admin/inc/blog.php:56 admin/inc/news.php:59 admin/inc/welcart.php:73
+msgid "Please check items to display."
+msgstr ""
+
+#: admin/inc/blog.php:57 admin/inc/news.php:53
+msgid "Settings for archive page and single page"
+msgstr ""
+
+#: admin/inc/blog.php:62 admin/inc/news.php:58 admin/inc/welcart.php:78
+msgid "Settings for single page"
+msgstr ""
+
+#: admin/inc/blog.php:64 admin/inc/news.php:61
+msgid "Display thumbnail"
+msgstr ""
+
+#: admin/inc/blog.php:65
+msgid "Display tags"
+msgstr ""
+
+#: admin/inc/blog.php:66
+msgid "Display author"
+msgstr ""
+
+#: admin/inc/blog.php:67 admin/inc/news.php:62
+msgid "Buttons to the article top"
+msgstr ""
+
+#: admin/inc/blog.php:68 admin/inc/news.php:63
+msgid "Buttons to the article bottom"
+msgstr ""
+
+#: admin/inc/blog.php:69 admin/inc/news.php:64
+msgid "Display next previous post link"
+msgstr ""
+
+#: admin/inc/blog.php:70 admin/inc/welcart.php:81
+msgid "Display comment"
+msgstr ""
+
+#: admin/inc/blog.php:71
+msgid "Display trackbacks"
+msgstr ""
+
+#: admin/inc/blog.php:79
+msgid "Related posts setting"
+msgstr ""
+
+#: admin/inc/blog.php:80
+msgid "You can set related posts list displayed at bottom of single page."
+msgstr ""
+
+#: admin/inc/blog.php:81
+msgid "Display related post"
+msgstr ""
+
+#: admin/inc/blog.php:82
+msgid "Headline of related posts"
+msgstr ""
+
+#: admin/inc/blog.php:83
+msgid "Set heading of related post list."
+msgstr ""
+
+#: admin/inc/blog.php:85
+msgid "Number of related posts"
+msgstr ""
+
+#: admin/inc/blog.php:86
+msgid "Set the number of posts of related post list."
+msgstr ""
+
+#: admin/inc/blog.php:92 admin/inc/blog.php:155
+msgid "Single page banner setup"
+msgstr ""
+
+#: admin/inc/blog.php:93
+msgid "This banner will be displayed under contents."
+msgstr ""
+
+#: admin/inc/blog.php:95 admin/inc/blog.php:159
+msgid "Left banner"
+msgstr ""
+
+#: admin/inc/blog.php:98 admin/inc/blog.php:127 admin/inc/blog.php:162
+#: admin/inc/blog.php:191 admin/inc/blog.php:222
+msgid "Banner code"
+msgstr ""
+
+#: admin/inc/blog.php:99 admin/inc/blog.php:128 admin/inc/blog.php:163
+#: admin/inc/blog.php:192 admin/inc/blog.php:223
+msgid "If you are using google adsense, enter all code below."
+msgstr ""
+
+#: admin/inc/blog.php:102
+msgid ""
+"If you are not using google adsense, you can register your banner image and "
+"affiliate code individually. If an advertisement code is entered in the "
+"above setting field, the following setting will be invalid."
+msgstr ""
+
+#: admin/inc/blog.php:104 admin/inc/blog.php:133 admin/inc/blog.php:168
+#: admin/inc/blog.php:197 admin/inc/blog.php:228
+msgid "Register banner image."
+msgstr ""
+
+#: admin/inc/blog.php:104 admin/inc/blog.php:133 admin/inc/blog.php:168
+#: admin/inc/blog.php:197
+msgid "Recommend size. Width:300px Height:250px"
+msgstr ""
+
+#: admin/inc/blog.php:117 admin/inc/blog.php:146 admin/inc/blog.php:181
+#: admin/inc/blog.php:210 admin/inc/blog.php:241
+msgid "Register affiliate code"
+msgstr ""
+
+#: admin/inc/blog.php:124 admin/inc/blog.php:188
+msgid "Right banner"
+msgstr ""
+
+#: admin/inc/blog.php:131 admin/inc/blog.php:166 admin/inc/blog.php:195
+#: admin/inc/blog.php:226
+msgid ""
+"If you are not using google adsense, you can register your banner image and "
+"affiliate code individually."
+msgstr ""
+
+#: admin/inc/blog.php:156
+msgid ""
+"Please copy and paste the short code inside the content to show this banner."
+msgstr ""
+
+#: admin/inc/blog.php:157
+msgid "Short code"
+msgstr ""
+
+#: admin/inc/blog.php:219
+msgid "Mobile device banner setup"
+msgstr ""
+
+#: admin/inc/blog.php:220
+msgid "This banner will be displayed on mobile device."
+msgstr ""
+
+#: admin/inc/footer.php:7
+msgid "Footer search"
+msgstr ""
+
+#: admin/inc/footer.php:8
+msgid "Please check this to display the footer search form for mobile."
+msgstr ""
+
+#: admin/inc/footer.php:9
+msgid "Display search form above the footer for mobile"
+msgstr ""
+
+#: admin/inc/footer.php:14
+msgid "Footer widget setting"
+msgstr ""
+
+#: admin/inc/footer.php:15
+msgid "Widget title color"
+msgstr ""
+
+#: admin/inc/footer.php:16
+msgid "Set text color of the title when the widget is set in the footer."
+msgstr ""
+
+#: admin/inc/footer.php:18
+msgid "Text color"
+msgstr ""
+
+#: admin/inc/footer.php:19
+msgid "Set text color when the widget is set in the footer."
+msgstr ""
+
+#: admin/inc/footer.php:21
+msgid "Link color"
+msgstr ""
+
+#: admin/inc/footer.php:22
+msgid "Set Link text color when the widget is set in the footer."
+msgstr ""
+
+#: admin/inc/footer.php:24
+msgid "Link hover color"
+msgstr ""
+
+#: admin/inc/footer.php:25
+msgid "Set hover text color when the widget is set in the footer."
+msgstr ""
+
+#: admin/inc/footer.php:28
+msgid "Set background color when the widget is set in the footer."
+msgstr ""
+
+#: admin/inc/footer.php:34
+msgid "Setting of the footer bar for smart phone"
+msgstr ""
+
+#: admin/inc/footer.php:35
+msgid "Please set the footer bar which is displayed with smart phone."
+msgstr ""
+
+#: admin/inc/footer.php:36
+msgid "Display type of the footer bar"
+msgstr ""
+
+#: admin/inc/footer.php:37
+msgid ""
+"Please select how to display the footer bar. When you scroll a page by a "
+"certain amount, the footer bar is displayed with the selected animation. If "
+"you do not use the footer bar, please check \"Hide\"."
+msgstr ""
+
+#: admin/inc/footer.php:43
+msgid "Settings for the appearance of the footer bar"
+msgstr ""
+
+#: admin/inc/footer.php:44
+msgid "Please set the color and transparency of the footer bar."
+msgstr ""
+
+#: admin/inc/footer.php:51 pagebuilder/modules/googlemap.php:154
+#: pagebuilder/modules/googlemap.php:434 pagebuilder/pagebuilder.php:628
+#: pagebuilder/pagebuilder.php:1894
+msgid "Border color"
+msgstr ""
+
+#: admin/inc/footer.php:59 admin/inc/header.php:35 admin/inc/top.php:93
+msgid "Opacity of background"
+msgstr ""
+
+#: admin/inc/footer.php:63 admin/inc/header.php:36
+msgid "Please enter the number 0 - 1.0. (e.g. 0.8)"
+msgstr ""
+
+#: admin/inc/footer.php:66
+msgid "Settings for the contents of the footer bar"
+msgstr ""
+
+#: admin/inc/footer.php:67
+msgid ""
+"You can display the button with icon in footer bar. (We recommend you to set "
+"max 4 buttons.)"
+msgstr ""
+
+#: admin/inc/footer.php:67
+msgid "You can select button types below."
+msgstr ""
+
+#: admin/inc/footer.php:70 admin/theme-options.php:846
+msgid "Default"
+msgstr ""
+
+#: admin/inc/footer.php:71
+msgid "You can set link URL."
+msgstr ""
+
+#: admin/inc/footer.php:74 admin/theme-options.php:847
+#: admin/theme-options.php:860
+msgid "Share"
+msgstr ""
+
+#: admin/inc/footer.php:75
+msgid "Share buttons are displayed if you tap this button."
+msgstr ""
+
+#: admin/inc/footer.php:78 admin/theme-options.php:848
+#: admin/theme-options.php:864
+msgid "Telephone"
+msgstr ""
+
+#: admin/inc/footer.php:79
+msgid "You can call this number."
+msgstr ""
+
+#: admin/inc/footer.php:82
+msgid ""
+"Click \"Add item\", and set the button for footer bar. You can drag the item "
+"to change their order."
+msgstr ""
+
+#: admin/inc/footer.php:84 functions/welcart_cf.php:62
+msgid "Delete?"
+msgstr ""
+
+#: admin/inc/footer.php:92 admin/inc/footer.php:139
+msgid "Open with new window"
+msgstr ""
+
+#: admin/inc/footer.php:95 admin/inc/footer.php:142
+msgid "Button type"
+msgstr ""
+
+#: admin/inc/footer.php:113 admin/inc/footer.php:160
+msgid "Phone number"
+msgstr ""
+
+#: admin/inc/footer.php:117 admin/inc/footer.php:164
+msgid "Button icon"
+msgstr ""
+
+#: admin/inc/footer.php:125 admin/inc/footer.php:172
+msgid "Delete item"
+msgstr ""
+
+#: admin/inc/footer.php:137 functions.php:63
+#: pagebuilder/modules/simple_table.php:93
+#: pagebuilder/modules/simple_table.php:155 pagebuilder/modules/tab.php:334
+#: pagebuilder/modules/tab.php:369 pagebuilder/modules/tab.php:380
+#: pagebuilder/modules/tab.php:645 pagebuilder/modules/tab.php:673
+#: pagebuilder/modules/tab.php:915
+msgid "New item"
+msgstr ""
+
+#: admin/inc/footer.php:177 pagebuilder/modules/simple_table.php:80
+#: pagebuilder/modules/slider.php:199 pagebuilder/modules/tab.php:321
+#: pagebuilder/modules/tab.php:612 pagebuilder/modules/tab.php:870
+msgid "Add item"
+msgstr ""
+
+#: admin/inc/header.php:7
+msgid "Header position"
+msgstr ""
+
+#: admin/inc/header.php:8
+msgid "Please set the display position of the header bar."
+msgstr ""
+
+#: admin/inc/header.php:9 admin/inc/header.php:21
+msgid ""
+"<ul><li>Normal display position - When scrolling through the page, the "
+"header bar disappears.</li><li>Fixed display at the top - Following the page "
+"scroll, the header bar is fixedly displayed at the top of the page.</li></ul>"
+msgstr ""
+
+#: admin/inc/header.php:19
+msgid "Header position for mobile device"
+msgstr ""
+
+#: admin/inc/header.php:20
+msgid "Please set the display position of the header bar for mobile."
+msgstr ""
+
+#: admin/inc/header.php:31
+msgid "Color of header"
+msgstr ""
+
+#: admin/inc/header.php:32
+msgid "Background color setting"
+msgstr ""
+
+#: admin/inc/header.php:33
+msgid "Please set the background color of header bar."
+msgstr ""
+
+#: admin/inc/header.php:38
+msgid "Text color setting"
+msgstr ""
+
+#: admin/inc/header.php:39
+msgid "Please set the font color of header bar."
+msgstr ""
+
+#: admin/inc/header.php:45
+msgid "Header/Footer search"
+msgstr ""
+
+#: admin/inc/header.php:46
+msgid "Please check this to display the header search form."
+msgstr ""
+
+#: admin/inc/header.php:47
+msgid ""
+"<ul><li>PC - Display the search icon on the right side of the global menu. "
+"Click the icon to display the search form.</li><li>mobile - Display the "
+"search form at the bottom of the global menu (drawer menu).</li></ul>"
+msgstr ""
+
+#: admin/inc/header.php:48
+msgid "Display search form in header"
+msgstr ""
+
+#: admin/inc/header.php:49
+msgid "Display search form in global menu for mobile"
+msgstr ""
+
+#: admin/inc/header.php:54
+msgid "Global menu settings"
+msgstr ""
+
+#: admin/inc/header.php:55
+msgid "Hover underline color"
+msgstr ""
+
+#: admin/inc/header.php:56
+msgid "Set the color of the underline when hovering over the menu."
+msgstr ""
+
+#: admin/inc/header.php:58
+msgid "Submenu link color"
+msgstr ""
+
+#: admin/inc/header.php:59
+msgid "Set font color of sub menu."
+msgstr ""
+
+#: admin/inc/header.php:61
+msgid "Submenu link color on hover"
+msgstr ""
+
+#: admin/inc/header.php:62
+msgid "Set hover font color of sub menu."
+msgstr ""
+
+#: admin/inc/header.php:64
+msgid "Submenu background color"
+msgstr ""
+
+#: admin/inc/header.php:65
+msgid "Set background color of the submenu."
+msgstr ""
+
+#: admin/inc/header.php:67
+msgid "Submenu background color on hover"
+msgstr ""
+
+#: admin/inc/header.php:68
+msgid "Set hover background color of sub menu."
+msgstr ""
+
+#: admin/inc/header.php:74
+msgid "Global menu display settings"
+msgstr ""
+
+#: admin/inc/header.php:75
+msgid ""
+"Only the menu items for which \"Category\" is set in the submenu will be "
+"displayed in the mega menu style, and menu items other than \"category\" "
+"will be ignored."
+msgstr ""
+
+#: admin/inc/header.php:76
+#, php-format
+msgid ""
+"To use Mega menu A, please set category image on <a href=\"%s\" target="
+"\"_blank\">Category edit screen</a>."
+msgstr ""
+
+#: admin/inc/header.php:124
+#, php-format
+msgid ""
+"Please set it as a global menu by <a href=\"%s\" target=\"_blank\">menu "
+"setting.</a>"
+msgstr ""
+
+#: admin/inc/header.php:132
+msgid "Color of lower page header"
+msgstr ""
+
+#: admin/inc/header.php:133
+msgid "Font color of title"
+msgstr ""
+
+#: admin/inc/header.php:134
+msgid "Set font color of the page header title."
+msgstr ""
+
+#: admin/inc/header.php:136
+msgid "Font color of description"
+msgstr ""
+
+#: admin/inc/header.php:137
+msgid "Set font color of the page header description."
+msgstr ""
+
+#: admin/inc/header.php:140
+msgid "Set background color of the page header."
+msgstr ""
+
+#: admin/inc/logo.php:7
+msgid "Header logo"
+msgstr ""
+
+#: admin/inc/logo.php:8 admin/inc/logo.php:39
+msgid "Logo type"
+msgstr ""
+
+#: admin/inc/logo.php:15 admin/inc/logo.php:46
+msgid "Font size for text logo"
+msgstr ""
+
+#: admin/inc/logo.php:19 admin/inc/logo.php:50
+msgid "Image for logo"
+msgstr ""
+
+#: admin/inc/logo.php:21 admin/inc/logo.php:52
+msgid "If the image is not registered, text will be displayed instead."
+msgstr ""
+
+#: admin/inc/logo.php:32 admin/inc/logo.php:63
+msgid "Use retina display logo image"
+msgstr ""
+
+#: admin/inc/logo.php:38
+msgid "Header logo for mobile device"
+msgstr ""
+
+#: admin/inc/news.php:7
+msgid "News page basic setting"
+msgstr ""
+
+#: admin/inc/news.php:9
+msgid ""
+"The breadcrumb is displayed at news archive and news single page. You can "
+"change name of page as you like.(default: News)"
+msgstr ""
+
+#: admin/inc/news.php:11
+msgid "Slug"
+msgstr ""
+
+#: admin/inc/news.php:12
+msgid ""
+"Slug is the string used for URL. You can use a-z and 0-9. Default slug is "
+"\"news\"."
+msgstr ""
+
+#: admin/inc/news.php:13
+msgid "Existing posts will not be visible if you change the slug."
+msgstr ""
+
+#: admin/inc/news.php:16
+msgid ""
+"You can set the title of page header in news archive and news single page."
+msgstr ""
+
+#: admin/inc/news.php:19
+msgid ""
+"You can set the description of page header in news archive and news single "
+"page."
+msgstr ""
+
+#: admin/inc/news.php:25
+msgid "News title / contents setting"
+msgstr ""
+
+#: admin/inc/news.php:26
+msgid "Font size of news title"
+msgstr ""
+
+#: admin/inc/news.php:29
+msgid "Font size of news title for mobile"
+msgstr ""
+
+#: admin/inc/news.php:35
+msgid "Font size of news contents"
+msgstr ""
+
+#: admin/inc/news.php:38
+msgid "Font size of news contents for mobile"
+msgstr ""
+
+#: admin/inc/news.php:41
+msgid "News contents color"
+msgstr ""
+
+#: admin/inc/news.php:49
+msgid "Archive post number"
+msgstr ""
+
+#: admin/inc/news.php:50
+msgid "You can set the number of posts to be displayed in archive page. "
+msgstr ""
+
+#: admin/inc/news.php:54
+msgid "Please check if you want to display the date."
+msgstr ""
+
+#: admin/inc/news.php:70
+msgid "Recent news setting"
+msgstr ""
+
+#: admin/inc/news.php:71
+msgid "You can set recent news list displayed at bottom of news single page."
+msgstr ""
+
+#: admin/inc/news.php:72
+msgid "Display reccent news list"
+msgstr ""
+
+#: admin/inc/news.php:73
+msgid "Headline for Recent news"
+msgstr ""
+
+#: admin/inc/news.php:74
+msgid "Set heading of recent news list."
+msgstr ""
+
+#: admin/inc/news.php:76 admin/inc/top.php:184
+msgid "Archive link text"
+msgstr ""
+
+#: admin/inc/news.php:77
+msgid ""
+"You can set the button to archive page displayed at right end of the "
+"heading. If you set blank, button is not displayed."
+msgstr ""
+
+#: admin/inc/news.php:80
+msgid "Set the number of posts of recent news list."
+msgstr ""
+
+#: admin/inc/password.php:7
+msgid "Password protected pages settings"
+msgstr ""
+
+#: admin/inc/password.php:8
+msgid ""
+"WordPress Default Function We have prepared a function to customize the "
+"protected page with \"password protection\" set. By default the password "
+"entry field and send button are only displayed, but you can display "
+"arbitrary guidance sentences and link buttons."
+msgstr ""
+
+#: admin/inc/password.php:9
+msgid "Password field and button align settings"
+msgstr ""
+
+#: admin/inc/password.php:10
+msgid ""
+"Please select the arrangement of password field and confirm-button displayed "
+"on the protected page from \"Left align\" or \"Align center\"."
+msgstr ""
+
+#: admin/inc/password.php:16
+msgid "Password field settings"
+msgstr ""
+
+#: admin/inc/password.php:17
+msgid "Set the label to be displayed before the password entry field."
+msgstr ""
+
+#: admin/inc/password.php:18 admin/inc/password.php:30
+msgid "Label"
+msgstr ""
+
+#: admin/inc/password.php:19 functions/password_form.php:28
+msgid "Contents to encourage member registration"
+msgstr ""
+
+#: admin/inc/password.php:20
+msgid ""
+"Create induced content for member registration. Please select the guide "
+"content you want to display from the post edit screen which set \"password "
+"protection\"."
+msgstr ""
+
+#: admin/inc/password.php:23 functions/password_form.php:46
+msgid "Content"
+msgstr ""
+
+#: admin/inc/password.php:25
+msgid "Name of contents"
+msgstr ""
+
+#: admin/inc/password.php:26
+msgid "\"Name of contents\" is used in edit post page."
+msgstr ""
+
+#: admin/inc/password.php:27
+msgid "Button settings"
+msgstr ""
+
+#: admin/inc/password.php:28
+msgid "Set the buttons displayed under the member registration."
+msgstr ""
+
+#: admin/inc/password.php:29 admin/inc/top.php:127
+#: pagebuilder/modules/googlemap.php:407
+msgid "Display button"
+msgstr ""
+
+#: admin/inc/password.php:32 admin/inc/top.php:156
+#: pagebuilder/modules/googlemap.php:419 widget/site_info.php:281
+#: widget/site_info.php:304
+msgid "Open link in new window"
+msgstr ""
+
+#: admin/inc/password.php:33
+msgid "Sentences to encourage member registration"
+msgstr ""
+
+#: admin/inc/password.php:34
+msgid ""
+"You can display not only text but also images and Youtube videos as guided "
+"content, just like regular posts. \"Sentences to encourage member "
+"registration\" is displayed under excerpts."
+msgstr ""
+
+#: admin/inc/tools.php:3
+msgid "TCD theme options tools"
+msgstr ""
+
+#: admin/inc/tools.php:4
+msgid "You can do TCD theme options \"export\" \"import\" \"reset\"."
+msgstr ""
+
+#: admin/inc/tools.php:5
+msgid ""
+"For \"import\" and \"reset\", theme option setting may be overwritten. Be "
+"sure to read the following note before using."
+msgstr ""
+
+#: admin/inc/tools.php:6 admin/inc/tools.php:12
+msgid "Export"
+msgstr ""
+
+#: admin/inc/tools.php:7
+msgid "You can export TCD theme options settings."
+msgstr ""
+
+#: admin/inc/tools.php:9
+msgid ""
+"By pressing the \"export\" button, you can download TCD theme options "
+"setting file as json file. Example of setting file name: tcd_theme_options-"
+"export-WordPress theme \"ICONIC_tcd 062\" - ICONIC - 20180827.json \""
+msgstr ""
+
+#: admin/inc/tools.php:10
+msgid ""
+"You can prepare for unforeseen circumstances by exporting it before making a "
+"large setting change."
+msgstr ""
+
+#: admin/inc/tools.php:13 admin/inc/tools.php:22
+msgid "Import"
+msgstr ""
+
+#: admin/inc/tools.php:14
+msgid "You can import TCD theme options settings."
+msgstr ""
+
+#: admin/inc/tools.php:15
+msgid ""
+"The subject option contents are overwritten with the contents of the "
+"imported configuration file, so be careful when executing it."
+msgstr ""
+
+#: admin/inc/tools.php:17
+msgid ""
+"Please select the JSON file (. Json) exported from the TCD theme when you "
+"want to restore the setting contents at the time of backup and press the "
+"\"import\" button."
+msgstr ""
+
+#: admin/inc/tools.php:18
+msgid "You can restore TCD theme option setting when exporting."
+msgstr ""
+
+#: admin/inc/tools.php:24 admin/inc/tools.php:39
+msgid "Reset"
+msgstr ""
+
+#: admin/inc/tools.php:25
+msgid "You can initialize the TCD theme option."
+msgstr ""
+
+#: admin/inc/tools.php:26
+msgid ""
+"Please note that all currently set contents will be deleted. Be sure to "
+"check the following PDF manual before executing."
+msgstr ""
+
+#: admin/inc/tools.php:28
+msgid "About checkboxes for additional sample elements."
+msgstr ""
+
+#: admin/inc/tools.php:29
+msgid ""
+"By adding a check at reset time, we add samples of main contents (articles, "
+"images, categories, menus) that make up the site. By doing this, you can "
+"replace images and insert texts while checking the actual layout."
+msgstr ""
+
+#: admin/inc/tools.php:30
+msgid ""
+"When activating this theme for the first time using TCD theme, samples, "
+"articles, images, categories and menus will be added automatically when the "
+"theme is activated. If you activate this theme on a site that you have used "
+"TCD theme so far, sample elements will not be added unless you do \"Reset "
+"execution with option item checked\"."
+msgstr ""
+
+#: admin/inc/tools.php:32
+msgid "Please check the items you want to add samples for."
+msgstr ""
+
+#: admin/inc/tools.php:34
+msgid "Add sample posts"
+msgstr ""
+
+#: admin/inc/tools.php:34
+msgid "Note: sample posts will not be added if they already exist."
+msgstr ""
+
+#: admin/inc/tools.php:35
+msgid "Add sample Categories"
+msgstr ""
+
+#: admin/inc/tools.php:35
+msgid "Note: sample categories will not be added if they already exist."
+msgstr ""
+
+#: admin/inc/tools.php:36
+msgid "Add an sample global menu and megamenu setting"
+msgstr ""
+
+#: admin/inc/tools.php:36
+msgid ""
+"Note: an sample global menu will not be added if the global menu or \\"
+"\"Sample menu\\\" already exist, only the mega menu setting will be reset."
+msgstr ""
+
+#: admin/inc/tools.php:37
+msgid "Initialize the common widget area"
+msgstr ""
+
+#: admin/inc/tools.php:37
+msgid "Note: current widgets in the common widget area will be initialized."
+msgstr ""
+
+#: admin/inc/tools.php:49
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: admin/inc/top.php:7
+msgid "Header slider setting"
+msgstr ""
+
+#: admin/inc/top.php:8
+msgid ""
+"You can set header slider as the first view of your site. You can set 5 "
+"slides or 1 image as fixed header."
+msgstr ""
+
+#: admin/inc/top.php:11
+#, php-format
+msgid "Slider%s setting"
+msgstr ""
+
+#: admin/inc/top.php:15
+msgid "Image for PC and Tablet."
+msgstr ""
+
+#: admin/inc/top.php:16
+#, php-format
+msgid "Recommend image size. Width:%dpx or more, Height:%dpx or more"
+msgstr ""
+
+#: admin/inc/top.php:27
+msgid "Image for smartphone"
+msgstr ""
+
+#: admin/inc/top.php:28
+msgid "Image for mobile."
+msgstr ""
+
+#: admin/inc/top.php:40
+msgid "Overlay"
+msgstr ""
+
+#: admin/inc/top.php:41
+msgid ""
+"Use overlay, to become easy to read the catchphrase on the image. Please "
+"check \"use overlay\", and set detail options."
+msgstr ""
+
+#: admin/inc/top.php:42
+msgid "Display overlay"
+msgstr ""
+
+#: admin/inc/top.php:45
+msgid "Please set color and opacity of overlay."
+msgstr ""
+
+#: admin/inc/top.php:47 functions/page_cf2.php:46
+#: pagebuilder/modules/googlemap.php:297
+#: pagebuilder/modules/image_overlay.php:162
+msgid "Please enter the number 0 - 1.0. (e.g. 0.5)"
+msgstr ""
+
+#: admin/inc/top.php:50
+msgid "Catchphrase setting"
+msgstr ""
+
+#: admin/inc/top.php:51
+msgid ""
+"You can set the catchphrase on the image, and check \"use catchphrase\" to "
+"set detail options."
+msgstr ""
+
+#: admin/inc/top.php:52
+msgid "Display catchphrase"
+msgstr ""
+
+#: admin/inc/top.php:54
+msgid "Plase set texts for catchphrase, font size, color and align."
+msgstr ""
+
+#: admin/inc/top.php:67 pagebuilder/modules/catchcopy.php:88
+#: pagebuilder/modules/googlemap.php:336 pagebuilder/modules/googlemap.php:387
+#: pagebuilder/modules/headline.php:88
+#: pagebuilder/modules/image_overlay.php:218
+#: pagebuilder/modules/image_overlay.php:289 pagebuilder/modules/tab.php:717
+#: pagebuilder/modules/tab.php:768
+msgid "Text align"
+msgstr ""
+
+#: admin/inc/top.php:77
+msgid "Catchphrase setting for mobile"
+msgstr ""
+
+#: admin/inc/top.php:78
+msgid ""
+"You can set font size, color, background color and opacity of catchphrase "
+"for mobile."
+msgstr ""
+
+#: admin/inc/top.php:85 pagebuilder/modules/image_overlay.php:198
+#: pagebuilder/modules/image_overlay.php:269
+msgid "Font color for mobile"
+msgstr ""
+
+#: admin/inc/top.php:117
+msgid "Headline setting"
+msgstr ""
+
+#: admin/inc/top.php:118
+msgid ""
+"You can set the caption displayed below the slider, and check \"use caption"
+"\" to set detail options."
+msgstr ""
+
+#: admin/inc/top.php:119
+msgid "Display headline"
+msgstr ""
+
+#: admin/inc/top.php:122
+msgid "Plase set caption."
+msgstr ""
+
+#: admin/inc/top.php:125
+msgid "Button setting"
+msgstr ""
+
+#: admin/inc/top.php:126
+msgid ""
+"You can set the button displayed below the slider, and check \"use caption\" "
+"to set detail options."
+msgstr ""
+
+#: admin/inc/top.php:154
+msgid ""
+"You can set destination url when clicking/tapping the button on PC and "
+"tablet and tapping button or background images on mobile device."
+msgstr ""
+
+#: admin/inc/top.php:162
+msgid "Please set transition speed. (3 to 15 seconds)"
+msgstr ""
+
+#: admin/inc/top.php:172
+msgid "News ticker setting"
+msgstr ""
+
+#: admin/inc/top.php:173
+msgid "You can set news ticker below header slider."
+msgstr ""
+
+#: admin/inc/top.php:174
+msgid "Display news ticker"
+msgstr ""
+
+#: admin/inc/top.php:177
+msgid "You can set the number of news and display/non-display of date."
+msgstr ""
+
+#: admin/inc/top.php:181
+msgid ""
+"You can set the button to archive page displayed at right of ticker. If you "
+"set blank, button is not displayed."
+msgstr ""
+
+#: admin/inc/top.php:204
+msgid "News ticker speed"
+msgstr ""
+
+#: admin/inc/top.php:205
+msgid "You can set transition speed of ticker. (3 - 15 seconds)"
+msgstr ""
+
+#: admin/inc/welcart.php:7
+msgid "Header setting"
+msgstr ""
+
+#: admin/inc/welcart.php:8
+msgid ""
+"Sets the color of the cart button displayed at the top right corner of the "
+"site."
+msgstr ""
+
+#: admin/inc/welcart.php:9
+msgid "Background color of header cart button"
+msgstr ""
+
+#: admin/inc/welcart.php:10
+msgid "Set the background color of header cart button."
+msgstr ""
+
+#: admin/inc/welcart.php:13
+msgid "Background color of header cart section on hover"
+msgstr ""
+
+#: admin/inc/welcart.php:14
+msgid "Set the hover color of header cart button."
+msgstr ""
+
+#: admin/inc/welcart.php:19
+msgid ""
+"Set up product page. Please add products before doing the following "
+"settings. If the product is 0 case You can not check the display of the "
+"product page, so after adding more than one item please make the following "
+"settings."
+msgstr ""
+
+#: admin/inc/welcart.php:20
+msgid ""
+"<p>Click the \"Welcart Shop\"> \"<a href=\"admin.php?page=usces_itemnew\" "
+"target=\"_blank\">Add New</a>\" button on the side menu and add a new item.</"
+"p><p>Items added can be checked and edited in the side menu \"Welcart Shop\" "
+"> \"<a href=\"admin.php?page=usces_itemedit\" target=\"_blank\">Product "
+"Master</a>\".</p><p>cf: Welcart manual \"GET STARTED\" - STEP 5 // product "
+"registration<br><a href=\"https://www.welcart.com/wc-flow/\" target=\"_blank"
+"\">https://www.welcart.com/wc-flow/</a></p>"
+msgstr ""
+
+#: admin/inc/welcart.php:24
+msgid "Setting the sidebar of item page"
+msgstr ""
+
+#: admin/inc/welcart.php:25
+msgid ""
+"Set the position of the sidebar of the item archive page and item single "
+"page."
+msgstr ""
+
+#: admin/inc/welcart.php:39
+msgid "Item title / contents setting"
+msgstr ""
+
+#: admin/inc/welcart.php:40
+msgid "Font size of item title"
+msgstr ""
+
+#: admin/inc/welcart.php:41
+msgid "You can set the font size of the item single page title."
+msgstr ""
+
+#: admin/inc/welcart.php:43
+msgid "Font size of item title for mobile"
+msgstr ""
+
+#: admin/inc/welcart.php:44
+msgid "You can set the font size of the item single page title for mobile."
+msgstr ""
+
+#: admin/inc/welcart.php:47
+msgid "You can set the font color of the item single page title."
+msgstr ""
+
+#: admin/inc/welcart.php:49
+msgid "Font size of item contents"
+msgstr ""
+
+#: admin/inc/welcart.php:50
+msgid "You can set the font size of the item single page contents."
+msgstr ""
+
+#: admin/inc/welcart.php:52
+msgid "Font size of item contents for mobile"
+msgstr ""
+
+#: admin/inc/welcart.php:53
+msgid "You can set the font size of the item single page contents for mobile."
+msgstr ""
+
+#: admin/inc/welcart.php:55
+msgid "Item contents color"
+msgstr ""
+
+#: admin/inc/welcart.php:56
+msgid "You can set the font color of the item single page contents."
+msgstr ""
+
+#: admin/inc/welcart.php:58
+msgid "Font size of item price"
+msgstr ""
+
+#: admin/inc/welcart.php:59
+msgid "You can set the font size of the item single page price."
+msgstr ""
+
+#: admin/inc/welcart.php:61
+msgid "Font size of item price for mobile"
+msgstr ""
+
+#: admin/inc/welcart.php:62
+msgid "You can set the font size of the item single page price for mobile."
+msgstr ""
+
+#: admin/inc/welcart.php:64
+msgid "Item Price color"
+msgstr ""
+
+#: admin/inc/welcart.php:65
+msgid "You can set the font color of the item single page price."
+msgstr ""
+
+#: admin/inc/welcart.php:72
+msgid "Settings for archive page"
+msgstr ""
+
+#: admin/inc/welcart.php:79
+msgid "Please check if you want to display the comment."
+msgstr ""
+
+#: admin/inc/welcart.php:87
+msgid "Related item setting"
+msgstr ""
+
+#: admin/inc/welcart.php:88
+msgid "Related item will be displayed at the bottom of item page."
+msgstr ""
+
+#: admin/inc/welcart.php:89
+msgid ""
+"<p>In order to display related items, please enter the item code of the item "
+"you want to display on \"Tag\" on the item management screen.</p><p>cf: <a "
+"href=\"https://www.welcart.com/documents/manual-2/%E6%96%B0%E8%A6%8F"
+"%E5%95%86%E5%93%81%E8%BF%BD%E5%8A%A0/g%E3%80%80%E3%82%BF%E3%82%B0\" target="
+"\"_blank\">Welcart manual \"g. Tag\"</a></p>"
+msgstr ""
+
+#: admin/inc/welcart.php:90
+msgid "Display related item"
+msgstr ""
+
+#: admin/inc/welcart.php:91
+msgid "Headline for related item"
+msgstr ""
+
+#: admin/inc/welcart.php:92
+msgid "Set heading of Related items."
+msgstr ""
+
+#: admin/inc/welcart.php:94 admin/inc/welcart.php:108
+msgid "Number of item"
+msgstr ""
+
+#: admin/inc/welcart.php:95
+msgid "Set the number of posts of Related items."
+msgstr ""
+
+#: admin/inc/welcart.php:101
+msgid "Recommend item setting"
+msgstr ""
+
+#: admin/inc/welcart.php:102
+msgid "Recommend item will be displayed at the bottom of item page."
+msgstr ""
+
+#: admin/inc/welcart.php:103
+msgid ""
+"<p>In the Recommendation Product List, \"Items purchased together in the "
+"past year\" are displayed.</p><p>ex. The recommended item list of the item A "
+"displays the item \"purchased together with the item A in the past year\"</p>"
+msgstr ""
+
+#: admin/inc/welcart.php:104
+msgid "Display recommend item list"
+msgstr ""
+
+#: admin/inc/welcart.php:105
+msgid "Headline for recommend item"
+msgstr ""
+
+#: admin/inc/welcart.php:106
+msgid "Set heading of recommend items."
+msgstr ""
+
+#: admin/inc/welcart.php:109
+msgid "Set the number of posts of recommend items."
+msgstr ""
+
+#: admin/theme-options-tools.php:197
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
+msgstr ""
+
+#: admin/theme-options-tools.php:200
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr ""
+
+#: admin/theme-options-tools.php:203
+msgid "The uploaded file was only partially uploaded."
+msgstr ""
+
+#: admin/theme-options-tools.php:206
+msgid "No file was uploaded."
+msgstr ""
+
+#: admin/theme-options-tools.php:209
+msgid "Missing a temporary folder."
+msgstr ""
+
+#: admin/theme-options-tools.php:212
+msgid "Failed to write file to disk."
+msgstr ""
+
+#: admin/theme-options-tools.php:215
+msgid "File upload stopped by extension."
+msgstr ""
+
+#: admin/theme-options-tools.php:218
+msgid "File has not been uploaded."
+msgstr ""
+
+#: admin/theme-options-tools.php:221
+msgid "There is no file"
+msgstr ""
+
+#: admin/theme-options-tools.php:224
+msgid "The file extension is not .json"
+msgstr ""
+
+#: admin/theme-options-tools.php:227
+msgid "Failed to read the file"
+msgstr ""
+
+#: admin/theme-options-tools.php:230
+msgid "Json decoding failed"
+msgstr ""
+
+#: admin/theme-options-tools.php:238
+#, php-format
+msgid "Import error. %s"
+msgstr ""
+
+#: admin/theme-options-tools.php:242
+msgid "Settings imported"
+msgstr ""
+
+#: admin/theme-options-tools.php:246
+msgid "Settings reset"
+msgstr ""
+
+#: admin/theme-options-tools.php:666
+msgid "Sample post"
+msgstr ""
+
+#: admin/theme-options-tools.php:667 admin/theme-options-tools.php:685
+msgid "sample text sample text."
+msgstr ""
+
+#: admin/theme-options-tools.php:684
+msgid "Sample news"
+msgstr ""
+
+#: admin/theme-options-tools.php:812 admin/theme-options-tools.php:818
+msgid "Sample menu"
+msgstr ""
+
+#: admin/theme-options-tools.php:834 admin/theme-options.php:898
+msgid "Dropdown menu"
+msgstr ""
+
+#: admin/theme-options-tools.php:838 admin/theme-options.php:903
+msgid "Mega menu A"
+msgstr ""
+
+#: admin/theme-options-tools.php:843 admin/theme-options.php:908
+msgid "Mega menu B"
+msgstr ""
+
+#: admin/theme-options-tools.php:848 admin/theme-options.php:913
+msgid "Mega menu C"
+msgstr ""
+
+#: admin/theme-options-tools.php:955 widget/styled_post_list_tab.php:24
+#: widget/styled_post_list_tab.php:37
+msgid "Recent post"
+msgstr ""
+
+#: admin/theme-options.php:15 admin/theme-options.php:16
+msgid "TCD Theme"
+msgstr ""
+
+#: admin/theme-options.php:158 admin/theme-options.php:361
+msgid "News archive"
+msgstr ""
+
+#: admin/theme-options.php:171 admin/theme-options.php:182
+#: admin/theme-options.php:193 pagebuilder/modules/three_boxes.php:56
+#, php-format
+msgid "Box%d"
+msgstr ""
+
+#: admin/theme-options.php:175 admin/theme-options.php:186
+#: admin/theme-options.php:197
+msgid "Enter description here."
+msgstr ""
+
+#: admin/theme-options.php:231 admin/theme-options.php:281
+msgid "BLOG"
+msgstr ""
+
+#: admin/theme-options.php:235 admin/theme-options.php:262
+#: admin/theme-options.php:283 admin/theme-options.php:339
+msgid "Enter description here. Enter description here."
+msgstr ""
+
+#: admin/theme-options.php:266 admin/theme-options.php:554
+msgid "Sample button"
+msgstr ""
+
+#: admin/theme-options.php:308
+msgid "Related posts"
+msgstr ""
+
+#: admin/theme-options.php:336 admin/theme-options.php:338
+#: admin/theme-options.php:947
+msgid "News"
+msgstr ""
+
+#: admin/theme-options.php:359
+msgid "Recent news"
+msgstr ""
+
+#: admin/theme-options.php:391
+msgid "Related item"
+msgstr ""
+
+#: admin/theme-options.php:396
+msgid "Customers who bought this item also bought"
+msgstr ""
+
+#: admin/theme-options.php:468
+msgid "404 Not Found"
+msgstr ""
+
+#: admin/theme-options.php:469
+msgid "The page you were looking for could not be found"
+msgstr ""
+
+#: admin/theme-options.php:548
+#, php-format
+msgid "Catchphrase for slider %d"
+msgstr ""
+
+#: admin/theme-options.php:552
+#, php-format
+msgid "Headline for slider %d"
+msgstr ""
+
+#: admin/theme-options.php:573 admin/theme-options.php:590
+#: pagebuilder/modules/banner.php:50 pagebuilder/modules/catchcopy.php:72
+#: pagebuilder/modules/googlemap.php:97 pagebuilder/modules/headline.php:72
+#: pagebuilder/modules/image_overlay.php:71 pagebuilder/modules/tab.php:653
+#: pagebuilder/modules/three_boxes.php:48
+msgid "Meiryo"
+msgstr ""
+
+#: admin/theme-options.php:577 admin/theme-options.php:594
+#: pagebuilder/modules/banner.php:51 pagebuilder/modules/catchcopy.php:73
+#: pagebuilder/modules/googlemap.php:98 pagebuilder/modules/headline.php:73
+#: pagebuilder/modules/image_overlay.php:72 pagebuilder/modules/tab.php:654
+#: pagebuilder/modules/three_boxes.php:49
+msgid "YuGothic"
+msgstr ""
+
+#: admin/theme-options.php:581 admin/theme-options.php:598
+#: pagebuilder/modules/banner.php:52 pagebuilder/modules/catchcopy.php:74
+#: pagebuilder/modules/googlemap.php:99 pagebuilder/modules/headline.php:74
+#: pagebuilder/modules/image_overlay.php:73 pagebuilder/modules/tab.php:655
+#: pagebuilder/modules/three_boxes.php:50
+msgid "YuMincho"
+msgstr ""
+
+#: admin/theme-options.php:607
+msgid "Display on left side"
+msgstr ""
+
+#: admin/theme-options.php:612
+msgid "Display on right side"
+msgstr ""
+
+#: admin/theme-options.php:622
+msgid "Circle"
+msgstr ""
+
+#: admin/theme-options.php:626
+msgid "Square"
+msgstr ""
+
+#: admin/theme-options.php:630
+msgid "Dot"
+msgstr ""
+
+#: admin/theme-options.php:645
+msgid "Zoom"
+msgstr ""
+
+#: admin/theme-options.php:649
+msgid "Slide"
+msgstr ""
+
+#: admin/theme-options.php:653
+msgid "Fade"
+msgstr ""
+
+#: admin/theme-options.php:660
+msgid "Left to Right"
+msgstr ""
+
+#: admin/theme-options.php:664
+msgid "Right to Left"
+msgstr ""
+
+#: admin/theme-options.php:673
+msgid "Use text for logo"
+msgstr ""
+
+#: admin/theme-options.php:677
+msgid "Use image for logo"
+msgstr ""
+
+#: admin/theme-options.php:686 pagebuilder/modules/googlemap.php:185
+msgid "Use default marker"
+msgstr ""
+
+#: admin/theme-options.php:691 pagebuilder/modules/googlemap.php:186
+msgid "Use custom marker"
+msgstr ""
+
+#: admin/theme-options.php:699 pagebuilder/modules/googlemap.php:205
+#: pagebuilder/modules/simple_table.php:176
+#: pagebuilder/modules/simple_table.php:191
+msgid "Text"
+msgstr ""
+
+#: admin/theme-options.php:712
+msgid "Normal header"
+msgstr ""
+
+#: admin/theme-options.php:716
+msgid "Fix at top after page scroll"
+msgstr ""
+
+#: admin/theme-options.php:750 functions/post_cf.php:35
+msgid "Page numbers"
+msgstr ""
+
+#: admin/theme-options.php:755 functions/post_cf.php:39
+msgid "Read more button"
+msgstr ""
+
+#: admin/theme-options.php:783 admin/theme-options.php:885
+#: pagebuilder/modules/catchcopy.php:41 pagebuilder/modules/googlemap.php:104
+#: pagebuilder/modules/headline.php:41 pagebuilder/modules/image_overlay.php:77
+#: pagebuilder/modules/tab.php:660
+msgid "Align left"
+msgstr ""
+
+#: admin/theme-options.php:787 admin/theme-options.php:889
+#: pagebuilder/modules/catchcopy.php:42 pagebuilder/modules/googlemap.php:105
+#: pagebuilder/modules/headline.php:42 pagebuilder/modules/image_overlay.php:78
+#: pagebuilder/modules/tab.php:661
+msgid "Align center"
+msgstr ""
+
+#: admin/theme-options.php:791 pagebuilder/modules/catchcopy.php:43
+#: pagebuilder/modules/googlemap.php:106 pagebuilder/modules/headline.php:43
+#: pagebuilder/modules/image_overlay.php:79 pagebuilder/modules/tab.php:662
+msgid "Align right"
+msgstr ""
+
+#: admin/theme-options.php:806
+msgid "style1"
+msgstr ""
+
+#: admin/theme-options.php:811
+msgid "style2"
+msgstr ""
+
+#: admin/theme-options.php:816
+msgid "style3"
+msgstr ""
+
+#: admin/theme-options.php:821
+msgid "style4"
+msgstr ""
+
+#: admin/theme-options.php:826
+msgid "style5"
+msgstr ""
+
+#: admin/theme-options.php:838
+msgid "Fade In"
+msgstr ""
+
+#: admin/theme-options.php:839
+msgid "Slide In"
+msgstr ""
+
+#: admin/theme-options.php:840
+msgid "Hide"
+msgstr ""
+
+#: admin/theme-options.php:856
+msgid "Document"
+msgstr ""
+
+#: admin/theme-options.php:868
+msgid "Envelope"
+msgstr ""
+
+#: admin/theme-options.php:872
+msgid "Tag"
+msgstr ""
+
+#: admin/theme-options.php:876
+msgid "Pencil"
+msgstr ""
+
+#: admin/theme-options.php:927
+msgid "Basic"
+msgstr ""
+
+#: admin/theme-options.php:932
+msgid "Logo"
+msgstr ""
+
+#: admin/theme-options.php:937
+msgid "Index"
+msgstr ""
+
+#: admin/theme-options.php:952
+msgid "Welcart"
+msgstr ""
+
+#: admin/theme-options.php:957
+msgid "Header"
+msgstr ""
+
+#: admin/theme-options.php:962
+msgid "Footer"
+msgstr ""
+
+#: admin/theme-options.php:967
+msgid "404 page"
+msgstr ""
+
+#: admin/theme-options.php:972
+msgid "Password protected pages"
+msgstr ""
+
+#: admin/theme-options.php:977
+msgid "Tools"
+msgstr ""
+
+#: admin/theme-options.php:984
+msgid "TCD Theme Options"
+msgstr ""
+
+#: admin/theme-options.php:990
+msgid "Updated"
+msgstr ""
+
+#: admin/theme-options.php:1032
+msgid "Now saving..."
+msgstr ""
+
+#: comments.php:14
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:26 comments.php:31
+msgid "Comment"
+msgstr ""
+
+#: comments.php:27
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:32
+msgid "Trackbacks are closed."
+msgstr ""
+
+#: comments.php:45
+msgid "No comments yet."
+msgstr ""
+
+#: comments.php:65 functions.php:419 functions.php:634 functions/seo.php:124
+#: functions/seo.php:185 template-parts/breadcrumb.php:175
+msgid "F jS, Y"
+msgstr ""
+
+#: comments.php:65
+msgid "[ EDIT ]"
+msgstr ""
+
+#: comments.php:68
+msgid "Trackback from: "
+msgstr ""
+
+#: comments.php:75
+msgid "No trackbacks yet."
+msgstr ""
+
+#: comments.php:83
+msgid "TRACKBACK URL"
+msgstr ""
+
+#: comments.php:97
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:112
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr ""
+
+#: comments.php:112
+msgid "[ Log out ]"
+msgstr ""
+
+#: comments.php:119
+msgid "NAME"
+msgstr ""
+
+#: comments.php:119 comments.php:122
+msgid "( required )"
+msgstr ""
+
+#: comments.php:122
+msgid "E-MAIL"
+msgstr ""
+
+#: comments.php:122
+msgid "- will not be published -"
+msgstr ""
+
+#: comments.php:125
+msgid "URL"
+msgstr ""
+
+#: comments.php:134
+msgid "Submit Comment"
+msgstr ""
+
+#: front-page.php:137 front-page.php:148 front-page.php:431 front-page.php:442
+#: index.php:64 item-category.php:54 item-category.php:67
+#: wc_templates/wc_item_single.php:24 wc_templates/wc_item_single.php:275
+#: wc_templates/wc_item_single.php:287 wc_templates/wc_item_single.php:340
+#: wc_templates/wc_item_single.php:352 wc_templates/wc_search_page.php:75
+#: wc_templates/wc_search_page.php:87 widget/styled_post_list_tab.php:209
+msgid "Sold Out"
+msgstr ""
+
+#: functions.php:31
+msgid "Global menu"
+msgstr ""
+
+#: functions.php:60
+msgid "Add New"
+msgstr ""
+
+#: functions.php:61
+msgid "Add New Item"
+msgstr ""
+
+#: functions.php:62
+msgid "Edit"
+msgstr ""
+
+#: functions.php:64
+msgid "View Item"
+msgstr ""
+
+#: functions.php:65
+msgid "Search Items"
+msgstr ""
+
+#: functions.php:66
+msgid "Not Found"
+msgstr ""
+
+#: functions.php:67
+msgid "Not found in trash"
+msgstr ""
+
+#: functions.php:137
+msgid "Settings Saved Successfully"
+msgstr ""
+
+#: functions.php:138
+msgid "Can not save data. Please try again."
+msgstr ""
+
+#: functions.php:144 pagebuilder/modules/includes/media_field.php:9
+msgid "Please Select Image"
+msgstr ""
+
+#: functions.php:145 pagebuilder/modules/includes/media_field.php:10
+msgid "Use this Image"
+msgstr ""
+
+#: functions.php:146 pagebuilder/modules/includes/media_field.php:11
+msgid "Please Select Video"
+msgstr ""
+
+#: functions.php:147 pagebuilder/modules/includes/media_field.php:12
+msgid "Use this Video"
+msgstr ""
+
+#: functions.php:192
+msgid "Common side widget"
+msgstr ""
+
+#: functions.php:202
+msgid "Post side widget"
+msgstr ""
+
+#: functions.php:212
+msgid "News side widget"
+msgstr ""
+
+#: functions.php:222
+msgid "Page side widget"
+msgstr ""
+
+#: functions.php:232
+msgid "Welcart side widget"
+msgstr ""
+
+#: functions.php:242
+msgid "Footer widget"
+msgstr ""
+
+#: functions.php:252
+msgid "Post side widget (mobile)"
+msgstr ""
+
+#: functions.php:262
+msgid "News side widget (mobile)"
+msgstr ""
+
+#: functions.php:272
+msgid "Page side widget (mobile)"
+msgstr ""
+
+#: functions.php:282
+msgid "Welcart side widget (mobile)"
+msgstr ""
+
+#: functions.php:292
+msgid "Footer widget (mobile)"
+msgstr ""
+
+#: functions.php:421 functions/seo.php:126 functions/seo.php:187
+#: template-parts/breadcrumb.php:169
+msgid "F, Y"
+msgstr ""
+
+#: functions.php:423 functions/seo.php:128 functions/seo.php:189
+#: template-parts/breadcrumb.php:163
+msgid "Y"
+msgstr ""
+
+#: functions.php:425 template-parts/breadcrumb.php:157
+msgid "Search result"
+msgstr ""
+
+#: functions.php:451
+msgid "Default style"
+msgstr ""
+
+#: functions.php:452
+msgid "No border"
+msgstr ""
+
+#: functions.php:453
+msgid "Display only horizontal border"
+msgstr ""
+
+#: functions.php:640 functions.php:644
+msgid "REPLY"
+msgstr ""
+
+#: functions.php:648
+msgid "QUOTE"
+msgstr ""
+
+#: functions.php:649
+msgid "EDIT"
+msgstr ""
+
+#: functions.php:655
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/admin_column.php:22
+msgid "Featured Image"
+msgstr ""
+
+#: functions/admin_column.php:73
+msgid "Sticky"
+msgstr ""
+
+#: functions/category.php:7 functions/category.php:32
+msgid "Category image for Mega menu A"
+msgstr ""
+
+#: functions/custom_css.php:7
+msgid "You don't need to enter &lt;style&gt; tag."
+msgstr ""
+
+#: functions/custom_css.php:13
+msgid "Custom CSS for this post"
+msgstr ""
+
+#: functions/custom_editor.php:39
+msgid "quicktags"
+msgstr ""
+
+#: functions/custom_editor.php:42
+msgid "Youtube"
+msgstr ""
+
+#: functions/custom_editor.php:43
+msgid "<div class=\"ytube\">Youtube code here</div>"
+msgstr ""
+
+#: functions/custom_editor.php:46
+msgid "Cardlink"
+msgstr ""
+
+#: functions/custom_editor.php:47
+msgid "[clink url=\"Post URL to display\"]"
+msgstr ""
+
+#: functions/custom_editor.php:50
+msgid "2 column"
+msgstr ""
+
+#: functions/custom_editor.php:51
+msgid ""
+"<div class=\"post_row\"><div class=\"post_col post_col-2\">Text and image "
+"tags to display in the left column</div><div class=\"post_col "
+"post_col-2\">Text and image tags to display in the right column</div></div>"
+msgstr ""
+
+#: functions/custom_editor.php:54
+msgid "3 column"
+msgstr ""
+
+#: functions/custom_editor.php:55
+msgid ""
+"<div class=\"post_row\"><div class=\"post_col post_col-3\">Text and image "
+"tags to display in the left column</div><div class=\"post_col "
+"post_col-3\">Text and image tags to display in the center column</div><div "
+"class=\"post_col post_col-3\">Text and image tags to display in the right "
+"column</div></div>"
+msgstr ""
+
+#: functions/custom_editor.php:58
+msgid "H3 styleA"
+msgstr ""
+
+#: functions/custom_editor.php:59
+msgid "<h3 class=\"style3a\">Heading 3 styleA</h3>"
+msgstr ""
+
+#: functions/custom_editor.php:62
+msgid "H3 styleB"
+msgstr ""
+
+#: functions/custom_editor.php:63
+msgid "<h3 class=\"style3b\">Heading 3 styleB</h3>"
+msgstr ""
+
+#: functions/custom_editor.php:66
+msgid "H4 styleA"
+msgstr ""
+
+#: functions/custom_editor.php:67
+msgid "<h4 class=\"style4a\">Heading 4 styleA</h4>"
+msgstr ""
+
+#: functions/custom_editor.php:70
+msgid "H4 styleB"
+msgstr ""
+
+#: functions/custom_editor.php:71
+msgid "<h4 class=\"style4b\">Heading 4 styleB</h4>"
+msgstr ""
+
+#: functions/custom_editor.php:74
+msgid "H5 styleA"
+msgstr ""
+
+#: functions/custom_editor.php:75
+msgid "<h5 class=\"style5a\">Heading 5 styleA</h5>"
+msgstr ""
+
+#: functions/custom_editor.php:78
+msgid "H5 styleB"
+msgstr ""
+
+#: functions/custom_editor.php:79
+msgid "<h5 class=\"style5b\">Heading 5 styleB</h5>"
+msgstr ""
+
+#: functions/custom_editor.php:82
+msgid "Frame styleA"
+msgstr ""
+
+#: functions/custom_editor.php:83
+msgid "<p class=\"well\">Frame styleA</p>"
+msgstr ""
+
+#: functions/custom_editor.php:86
+msgid "Frame styleB"
+msgstr ""
+
+#: functions/custom_editor.php:87
+msgid "<p class=\"well2\">Frame styleB</p>"
+msgstr ""
+
+#: functions/custom_editor.php:90
+msgid "Frame styleC"
+msgstr ""
+
+#: functions/custom_editor.php:91
+msgid "<p class=\"well3\">Frame styleC</p>"
+msgstr ""
+
+#: functions/custom_editor.php:94
+msgid "Flat btn"
+msgstr ""
+
+#: functions/custom_editor.php:95
+msgid "<a href=\"#\" class=\"q_button\">Flat button</a>"
+msgstr ""
+
+#: functions/custom_editor.php:98
+msgid "Flat btn-L"
+msgstr ""
+
+#: functions/custom_editor.php:99
+msgid "<a href=\"#\" class=\"q_button sz_l\">Flat button sizeL</a>"
+msgstr ""
+
+#: functions/custom_editor.php:102
+msgid "Flat btn-S"
+msgstr ""
+
+#: functions/custom_editor.php:103
+msgid "<a href=\"#\" class=\"q_button sz_s\">Flat button sizeS</a>"
+msgstr ""
+
+#: functions/custom_editor.php:106
+msgid "Flat btn-blue"
+msgstr ""
+
+#: functions/custom_editor.php:107
+msgid "<a href=\"#\" class=\"q_button bt_blue\">Flat button blue</a>"
+msgstr ""
+
+#: functions/custom_editor.php:110
+msgid "Flat btn-green"
+msgstr ""
+
+#: functions/custom_editor.php:111
+msgid "<a href=\"#\" class=\"q_button bt_green\">Flat button green</a>"
+msgstr ""
+
+#: functions/custom_editor.php:114
+msgid "Flat btn-red"
+msgstr ""
+
+#: functions/custom_editor.php:115
+msgid "<a href=\"#\" class=\"q_button bt_red\">Flat button red</a>"
+msgstr ""
+
+#: functions/custom_editor.php:118
+msgid "Flat btn-yellow"
+msgstr ""
+
+#: functions/custom_editor.php:119
+msgid "<a href=\"#\" class=\"q_button bt_yellow\">Flat button yellow</a>"
+msgstr ""
+
+#: functions/custom_editor.php:122
+msgid "Rounded btn"
+msgstr ""
+
+#: functions/custom_editor.php:123
+msgid "<a href=\"#\" class=\"q_button rounded\">Rounded button</a>"
+msgstr ""
+
+#: functions/custom_editor.php:126
+msgid "Rounded btn-L"
+msgstr ""
+
+#: functions/custom_editor.php:127
+msgid "<a href=\"#\" class=\"q_button rounded sz_l\">Rounded button sizeL</a>"
+msgstr ""
+
+#: functions/custom_editor.php:130
+msgid "Rounded btn-S"
+msgstr ""
+
+#: functions/custom_editor.php:131
+msgid "<a href=\"#\" class=\"q_button rounded sz_s\">Rounded button sizeS</a>"
+msgstr ""
+
+#: functions/custom_editor.php:134
+msgid "oval btn"
+msgstr ""
+
+#: functions/custom_editor.php:135
+msgid "<a href=\"#\" class=\"q_button pill\">Oval button</a>"
+msgstr ""
+
+#: functions/custom_editor.php:138
+msgid "oval btn-L"
+msgstr ""
+
+#: functions/custom_editor.php:139
+msgid "<a href=\"#\" class=\"q_button pill sz_l\">Oval button sizeL</a>"
+msgstr ""
+
+#: functions/custom_editor.php:142
+msgid "oval btn-S"
+msgstr ""
+
+#: functions/custom_editor.php:143
+msgid "<a href=\"#\" class=\"q_button pill sz_s\">Oval button sizeS</a>"
+msgstr ""
+
+#: functions/custom_editor.php:146
+msgid "advertisement"
+msgstr ""
+
+#: functions/custom_editor.php:147
+msgid "[s_ad]"
+msgstr ""
+
+#: functions/custom_editor.php:150
+msgid "Page break"
+msgstr ""
+
+#: functions/page_cf.php:14
+msgid "Page setting"
+msgstr ""
+
+#: functions/page_cf.php:34
+msgid "Display sidebar"
+msgstr ""
+
+#: functions/page_cf.php:38
+msgid "Hide sidebar"
+msgstr ""
+
+#: functions/page_cf.php:63
+msgid "Font size of page contents"
+msgstr ""
+
+#: functions/page_cf.php:71
+msgid "Font size of page contents for mobile"
+msgstr ""
+
+#: functions/page_cf2.php:14
+msgid "Header image for page"
+msgstr ""
+
+#: functions/password_form.php:44
+msgid "Select a content to encourage member registration."
+msgstr ""
+
+#: functions/password_form.php:174
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: functions/password_form.php:175
+msgid "Password:"
+msgstr ""
+
+#: functions/post_cf.php:11
+msgid "Post setting"
+msgstr ""
+
+#: functions/post_cf.php:31
+msgid "Use theme option setting"
+msgstr ""
+
+#: functions/post_cf.php:56
+msgid ""
+"Please set the page navigation display method of page split display by & "
+"lt;! - nextpage - & gt;"
+msgstr ""
+
+#: functions/quick_edit.php:19 functions/seo.php:17
+msgid "Meta title"
+msgstr ""
+
+#: functions/quick_edit.php:23 functions/seo.php:26
+msgid "Meta description"
+msgstr ""
+
+#: functions/quick_edit.php:36 functions/recommend.php:21
+msgid "Show this post for recommend post."
+msgstr ""
+
+#: functions/quick_edit.php:37 functions/recommend.php:24
+msgid "Show this post for recommend post2."
+msgstr ""
+
+#: functions/quick_edit.php:38 functions/recommend.php:27
+msgid "Show this post for pickup post."
+msgstr ""
+
+#: functions/recommend.php:18
+msgid "Check if you want to show this post for recommend post."
+msgstr ""
+
+#: functions/seo.php:11
+msgid "Meta title and description"
+msgstr ""
+
+#: functions/seo.php:18
+msgid "Enter meta title here."
+msgstr ""
+
+#: functions/seo.php:27
+msgid "Enter meta description here."
+msgstr ""
+
+#: functions/seo.php:52
+msgid "word count:"
+msgstr ""
+
+#: functions/seo.php:118 functions/seo.php:120 functions/seo.php:122
+#: functions/seo.php:195
+#, php-format
+msgid "Post list for %s"
+msgstr ""
+
+#: functions/seo.php:124 functions/seo.php:126 functions/seo.php:128
+#: functions/seo.php:132 functions/seo.php:185 functions/seo.php:187
+#: functions/seo.php:189 functions/seo.php:193
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: functions/update_notifier.php:15
+msgid "Theme Update"
+msgstr ""
+
+#: functions/update_notifier.php:39
+msgid "Theme Update Information"
+msgstr ""
+
+#: functions/update_notifier.php:41
+#, php-format
+msgid "The latest version of %s is released."
+msgstr ""
+
+#: functions/update_notifier.php:41
+#, php-format
+msgid "Current version is %s. You can update to the latest version, %s."
+msgstr ""
+
+#: functions/update_notifier.php:44
+msgid ""
+"Note: Please be sure to backup your theme before you update to the latest "
+"version."
+msgstr ""
+
+#: functions/update_notifier.php:45
+msgid "Download the latest version"
+msgstr ""
+
+#: functions/update_notifier.php:47
+msgid "Changelog"
+msgstr ""
+
+#: functions/welcart.php:148
+msgid "Mypage"
+msgstr ""
+
+#: functions/welcart.php:318
+msgid "Log-in for members"
+msgstr ""
+
+#: functions/welcart.php:326
+msgid "New enrollment form"
+msgstr ""
+
+#: functions/welcart.php:334 template-parts/page-header.php:9
+msgid "In the cart"
+msgstr ""
+
+#: functions/welcart.php:386 functions/welcart.php:413
+msgid "Back"
+msgstr ""
+
+#: functions/welcart.php:386 functions/welcart.php:413
+#: wc_templates/cart/wc_delivery_page.php:100
+msgid "&lt; Back"
+msgstr ""
+
+#: functions/welcart.php:390 wc_templates/cart/wc_customer_page.php:56
+#: wc_templates/cart/wc_delivery_page.php:101
+msgid " Next "
+msgstr ""
+
+#: functions/welcart.php:390
+msgid "To the next without member enrollment"
+msgstr ""
+
+#: functions/welcart.php:413
+msgid "Back to payment method page."
+msgstr ""
+
+#: functions/welcart.php:438 functions/welcart.php:453
+#: wc_templates/cart/wc_cart_page.php:52
+#: wc_templates/cart/wc_confirm_page.php:51
+msgid "Unit price"
+msgstr ""
+
+#: functions/welcart.php:439 functions/welcart.php:454
+#: wc_templates/cart/wc_cart_page.php:53
+#: wc_templates/cart/wc_confirm_page.php:52 wc_templates/wc_item_single.php:122
+msgid "Quantity"
+msgstr ""
+
+#: functions/welcart.php:440 functions/welcart.php:455
+#: wc_templates/cart/wc_cart_page.php:54
+#: wc_templates/cart/wc_confirm_page.php:53
+msgid "Amount"
+msgstr ""
+
+#: functions/welcart.php:441 wc_templates/cart/wc_cart_page.php:55
+#: wc_templates/wc_item_single.php:99
+msgid "Stock status"
+msgstr ""
+
+#: functions/welcart.php:465 functions/welcart.php:466
+msgid "building name"
+msgstr ""
+
+#: functions/welcart.php:478
+msgid "123-4567"
+msgstr ""
+
+#: functions/welcart.php:489
+msgid "Chuo-ku, Osaka"
+msgstr ""
+
+#: functions/welcart.php:499
+msgid "tuhanbuild 12F 1234"
+msgstr ""
+
+#: functions/welcart.php:509
+msgid "06-0000-0000"
+msgstr ""
+
+#: functions/welcart.php:521
+msgid "Ex. "
+msgstr ""
+
+#: functions/welcart_cf.php:8
+msgid "Tabbed product details"
+msgstr ""
+
+#: functions/welcart_cf.php:35
+#, php-format
+msgid "Tab%d setting"
+msgstr ""
+
+#: functions/welcart_cf.php:37 widget/styled_post_list_tab.php:287
+msgid "Display this tab"
+msgstr ""
+
+#: functions/welcart_cf.php:39
+msgid "Tab label"
+msgstr ""
+
+#: functions/welcart_cf.php:52
+msgid "Spec table"
+msgstr ""
+
+#: functions/welcart_cf.php:53
+msgid "Please add the item from \"Add row\" and set display contents."
+msgstr ""
+
+#: functions/welcart_cf.php:98 pagebuilder/pagebuilder.php:154
+#: pagebuilder/pagebuilder.php:184
+msgid "Add row"
+msgstr ""
+
+#: header.php:52 header.php:131
+msgid "Logout"
+msgstr ""
+
+#: header.php:53
+#, php-format
+msgid "Hello %s"
+msgstr ""
+
+#: header.php:57 header.php:133
+msgid "Registration"
+msgstr ""
+
+#: header.php:58 header.php:134
+msgid "Login"
+msgstr ""
+
+#: header.php:62
+msgid "Cart"
+msgstr ""
+
+#: index.php:128 item-category.php:145
+#: wc_templates/cart/wc_cart_error_page.php:40
+#: wc_templates/cart/wc_cart_page.php:95
+#: wc_templates/cart/wc_completion_page.php:51
+#: wc_templates/cart/wc_confirm_page.php:204
+#: wc_templates/cart/wc_customer_page.php:104
+#: wc_templates/cart/wc_delivery_page.php:111
+#: widget/styled_post_list_tab.php:180 widget/styled_post_list_tab.php:250
+msgid "There is no registered post."
+msgstr ""
+
+#: pagebuilder/modules/banner.php:83 pagebuilder/modules/banner.php:118
+#: pagebuilder/modules/catchcopy.php:68 pagebuilder/modules/googlemap.php:320
+#: pagebuilder/modules/googlemap.php:371 pagebuilder/modules/headline.php:68
+#: pagebuilder/modules/image_overlay.php:202
+#: pagebuilder/modules/image_overlay.php:273 pagebuilder/modules/tab.php:701
+#: pagebuilder/modules/tab.php:752 pagebuilder/modules/three_boxes.php:85
+#: pagebuilder/modules/three_boxes.php:120
+msgid "Font family"
+msgstr ""
+
+#: pagebuilder/modules/banner.php:137 pagebuilder/modules/googlemap.php:406
+msgid "Button Settings"
+msgstr ""
+
+#: pagebuilder/modules/banner.php:140 pagebuilder/modules/googlemap.php:410
+msgid "Button text"
+msgstr ""
+
+#: pagebuilder/modules/banner.php:152 pagebuilder/modules/googlemap.php:438
+msgid "Font color (hover)"
+msgstr ""
+
+#: pagebuilder/modules/banner.php:156 pagebuilder/modules/googlemap.php:442
+msgid "Background color (hover)"
+msgstr ""
+
+#: pagebuilder/modules/catchcopy.php:103 pagebuilder/modules/headline.php:103
+#: pagebuilder/modules/image_overlay.php:234
+#: pagebuilder/modules/image_overlay.php:305
+msgid "Text align for mobile"
+msgstr ""
+
+#: pagebuilder/modules/editor.php:11 pagebuilder/modules/tab.php:414
+msgid "Sentence"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:10
+msgid "Google Map"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:35 pagebuilder/modules/googlemap.php:36
+msgid "View in Google Maps"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:110
+msgid "Map address"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:115
+msgid "Logo image"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:116
+msgid "The logo image is displayed after the map."
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:126
+msgid "The description is displayed after the map."
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:131
+msgid "\"View in Google Maps\" settings"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:134
+msgid "Link label"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:138
+msgid "Link label for mobile"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:158 pagebuilder/modules/slider.php:94
+msgid "Background color on hover"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:162
+msgid "Font color on hover"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:166
+msgid "Border color on hover"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:173
+msgid "Saturation"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:174
+msgid ""
+"Please set the saturation of the map. If you set it to -100 the output map "
+"is monochrome."
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:176
+msgid "Current value: "
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:184
+msgid "Use settings in Theme Options"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:243
+#: pagebuilder/modules/image_overlay.php:126
+msgid "Overlay text setting"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:244
+msgid "You can display the background color and text overlaid on the map."
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:247
+#: pagebuilder/modules/image_overlay.php:129
+msgid "Display overlay text"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:252
+#: pagebuilder/modules/image_overlay.php:134
+msgid "Overlay text layout"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:255
+msgid "Type1 (display text contents on the left side)"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:256
+msgid "Type2 (display text contents on the right side)"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:271
+msgid "Google map layout"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:274
+msgid "Full width"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:275
+msgid "Half width"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:290
+#: pagebuilder/modules/image_overlay.php:150
+msgid "Overlay background color"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:294
+#: pagebuilder/modules/image_overlay.php:159
+msgid "Transparency"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:430
+msgid "Background color transparency"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:446
+msgid "Background color transparency (hover)"
+msgstr ""
+
+#: pagebuilder/modules/googlemap.php:450
+msgid "Border color (hover)"
+msgstr ""
+
+#: pagebuilder/modules/image.php:42 pagebuilder/modules/image_overlay.php:93
+msgid "Image size"
+msgstr ""
+
+#: pagebuilder/modules/image.php:47 pagebuilder/modules/image_overlay.php:98
+msgid "Thumbnail size"
+msgstr ""
+
+#: pagebuilder/modules/image.php:48 pagebuilder/modules/image_overlay.php:99
+msgid "Medium size"
+msgstr ""
+
+#: pagebuilder/modules/image.php:49 pagebuilder/modules/image_overlay.php:100
+msgid "Large size"
+msgstr ""
+
+#: pagebuilder/modules/image.php:50 pagebuilder/modules/image_overlay.php:101
+msgid "Full size"
+msgstr ""
+
+#: pagebuilder/modules/image.php:64 pagebuilder/modules/image_overlay.php:115
+#: pagebuilder/modules/slider.php:271
+msgid "Link URL for image"
+msgstr ""
+
+#: pagebuilder/modules/image.php:69 pagebuilder/modules/image_overlay.php:120
+#: pagebuilder/modules/slider.php:276
+msgid "Link target"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:11
+msgid "Image with overlay text"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:63
+msgid "Overlay on the entire image"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:64
+msgid "Overlay on the top side of image"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:65
+msgid "Overlay on the bottom side of image"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:66
+msgid "Overlay on the left side of image"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:67
+msgid "Overlay on the right side of image"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:146
+msgid "If mobile, display text below the image"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:166
+msgid "Background color for mobile"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:172
+msgid "Transparency for mobile"
+msgstr ""
+
+#: pagebuilder/modules/image_overlay.php:175
+msgid "Please enter the number 0 - 1.0. (e.g. 1.0)"
+msgstr ""
+
+#: pagebuilder/modules/includes/media_field.php:34
+msgid "Select Video"
+msgstr ""
+
+#: pagebuilder/modules/includes/media_field.php:35
+msgid "Remove Video"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:12
+msgid "Sipmle table"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:13
+msgid "You can display two columns table."
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:101
+msgid "Color for headline"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:106
+msgid "Background color for headline"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:163 pagebuilder/modules/slider.php:256
+#: pagebuilder/modules/tab.php:377 pagebuilder/modules/tab.php:670
+#: pagebuilder/modules/tab.php:912
+msgid "Are you sure you want to delete this item?"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:166 pagebuilder/modules/slider.php:259
+#: pagebuilder/modules/tab.php:380 pagebuilder/modules/tab.php:673
+#: pagebuilder/modules/tab.php:915 pagebuilder/modules/three_boxes.php:56
+msgid "Open"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:173
+msgid "Content type"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:177
+msgid "SNS icon"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:196
+msgid "Website URL"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:200
+msgid "Facebook URL"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:204
+msgid "Twitter URL"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:208
+msgid "Instagram URL"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:212
+msgid "Pinterest URL"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:216
+msgid "Flickr URL"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:220
+msgid "Tumblr URL"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:224
+msgid "Youtube URL"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:228
+msgid "Contact page URL (You can use mailto:)"
+msgstr ""
+
+#: pagebuilder/modules/simple_table.php:233
+msgid "RSS URL"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:18
+msgid "Slider"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:19
+msgid "You can display gallery slider."
+msgstr ""
+
+#: pagebuilder/modules/slider.php:71
+msgid "seconds"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:78
+msgid "Arrow color"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:86
+msgid "Opacity"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:90
+msgid "Arrow color on hover"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:98
+msgid "Opacity on hover"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:105
+msgid "Slider footer"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:108
+msgid "Display thumbnail navigation"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:109
+msgid "Display caption"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:110
+msgid "None"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:125
+msgid "Caption border setting"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:129
+msgid "Display caption border"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:134
+msgid "Caption padding setting"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:137
+msgid "Padding width"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:141
+msgid "Padding width for mobile"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:148
+msgid "Slide setting"
+msgstr ""
+
+#: pagebuilder/modules/slider.php:282
+msgid "Caption"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:12 widget/styled_post_list_tab.php:280
+msgid "Tab"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:13
+msgid "You can display content using tab."
+msgstr ""
+
+#: pagebuilder/modules/tab.php:170
+msgid "Tab design"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:173
+msgid ""
+"Type 1 (Background color: White fixed, Border: Yes, Arrangement of tab: Left)"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:174
+msgid ""
+"Type 2 (background color: any color, border line: none, arrangement of tabs: "
+"even)"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:175
+msgid ""
+"Type 3 (background color: any color, border line: Yes, arrangement of tabs: "
+"even)"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:190 pagebuilder/modules/tab.php:232
+msgid "Tab color"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:204 pagebuilder/modules/tab.php:246
+msgid "Active tab color"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:218 pagebuilder/modules/tab.php:260
+msgid "Tab hover color"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:383
+msgid "Name"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:388
+msgid "Content Type"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:391
+msgid "Text only"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:392
+msgid "Image + text (you can add items)"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:393
+msgid "Image gallery (you can add items)"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:394
+msgid "Video / Youtube"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:428
+msgid "Padding"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:433
+msgid "Padding for mobile"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:453
+msgid "Video type"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:456 pagebuilder/modules/tab.php:473
+msgid "Video upload"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:457
+msgid "Youtube / oEmbed"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:458 pagebuilder/modules/tab.php:495
+msgid "Embed code"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:482
+msgid "oEmbed url"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:490
+#, php-format
+msgid ""
+"Please enter the media URL of<a href=\"%s\" target=\"_blank\">oEmbed-"
+"compatible site</a>supported by WordPress such as Youtube"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:501
+msgid "Navigation color"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:515
+msgid "Active navigation color"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:529
+msgid "Tab caption"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:787
+msgid "Background Color"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:927
+msgid "Image caption"
+msgstr ""
+
+#: pagebuilder/modules/tab.php:963
+msgid "Open first tab for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:93
+msgid "Page Builder"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:152
+msgid "Revert to Editor"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:153 pagebuilder/pagebuilder.php:159
+msgid "Please click Add row button to start page builder."
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:185
+msgid "Add"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:186 pagebuilder/pagebuilder.php:413
+msgid "Row setting"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:186 pagebuilder/pagebuilder.php:414
+#: pagebuilder/pagebuilder.php:743
+msgid "Done"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:235
+msgid "Edit row"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:236 pagebuilder/pagebuilder.php:469
+msgid ""
+"Do you want to delete this row?\n"
+"If you delete this row, registered contents will also be deleted."
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:236
+msgid "Delete row"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:382 pagebuilder/pagebuilder.php:785
+msgid "Clone"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:383 pagebuilder/pagebuilder.php:784
+msgid "Do you want to delete this content?"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:478
+msgid "Number of column"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:506
+msgid "Layout setting"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:509
+msgid "Margin bottom of the row"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:511 pagebuilder/pagebuilder.php:517
+msgid "Space below the row.<br />Default is 30px."
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:515
+msgid "Margin bottom of the row for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:521
+msgid "Gutter"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:523 pagebuilder/pagebuilder.php:529
+msgid "Amount of space between columns.<br />Default is 30px."
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:527
+msgid "Gutter for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:533
+msgid "Row width"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:535
+msgid ""
+"Please register the <strong>px</strong> of width if you want to change the "
+"width of this row.<br /><br />If you registered the width, the row will be "
+"center aligned."
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:539
+msgid "Layout of column at mobile device."
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:543
+msgid "Display vertically"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:544
+msgid "Keep in horizontal"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:558
+msgid "Splitting contents"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:560
+msgid "Display this row at next page."
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:564 pagebuilder/pagebuilder.php:1824
+msgid "Background setting"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:572 pagebuilder/pagebuilder.php:1838
+msgid "Border setting"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:579 pagebuilder/pagebuilder.php:1845
+msgid "Display top border"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:585 pagebuilder/pagebuilder.php:1851
+msgid "Display bottom border"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:591 pagebuilder/pagebuilder.php:1857
+msgid "Display left border"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:597 pagebuilder/pagebuilder.php:1863
+msgid "Display right border"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:603 pagebuilder/pagebuilder.php:1869
+msgid "Display top border for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:609 pagebuilder/pagebuilder.php:1875
+msgid "Display bottom border for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:615 pagebuilder/pagebuilder.php:1881
+msgid "Display left border for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:621 pagebuilder/pagebuilder.php:1887
+msgid "Display right border for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:633 pagebuilder/pagebuilder.php:1899
+msgid "Padding setting"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:636 pagebuilder/pagebuilder.php:1902
+msgid "Top padding width"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:641 pagebuilder/pagebuilder.php:1907
+msgid "Bottom padding width"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:646 pagebuilder/pagebuilder.php:1912
+msgid "Left padding width"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:651 pagebuilder/pagebuilder.php:1917
+msgid "Right padding width"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:656 pagebuilder/pagebuilder.php:1922
+msgid "Top padding width for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:661 pagebuilder/pagebuilder.php:1927
+msgid "Bottom padding width for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:666 pagebuilder/pagebuilder.php:1932
+msgid "Left padding width for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:671 pagebuilder/pagebuilder.php:1937
+msgid "Right padding width for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:689
+msgid "Select the content"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:739
+msgid " setting"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:1809
+msgid "Margin setting"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:1812
+msgid "Margin bottom"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:1814 pagebuilder/pagebuilder.php:1820
+msgid "Space below the content.<br />Default is 30px."
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:1818
+msgid "Margin bottom for mobile"
+msgstr ""
+
+#: pagebuilder/pagebuilder.php:1829
+msgid "Set the background color"
+msgstr ""
+
+#: single-news.php:77 single.php:126
+msgid "Previous post"
+msgstr ""
+
+#: single-news.php:88 single.php:137
+msgid "Next post"
+msgstr ""
+
+#: single.php:83
+msgid "Read more"
+msgstr ""
+
+#: single.php:107
+msgid "Author: "
+msgstr ""
+
+#: single.php:110
+msgid "Comments"
+msgstr ""
+
+#: template-parts/header-view-cart.php:43
+msgid "View cart"
+msgstr ""
+
+#: template-parts/header-view-cart.php:44
+msgid "Checkout"
+msgstr ""
+
+#: template-parts/header-view-cart.php:49 wc_templates/cart/wc_cart_page.php:80
+msgid "There are no items in your cart."
+msgstr ""
+
+#: template-parts/page-header.php:75
+#, php-format
+msgid "Search result for \"%s\""
+msgstr ""
+
+#: wc_templates/cart/wc_cart_error_page.php:31
+msgid "Your order has not been completed"
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:33
+#: wc_templates/cart/wc_confirm_page.php:33
+#: wc_templates/cart/wc_customer_page.php:33
+#: wc_templates/cart/wc_delivery_page.php:33
+msgid "1.Cart"
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:34
+#: wc_templates/cart/wc_confirm_page.php:34
+#: wc_templates/cart/wc_customer_page.php:34
+#: wc_templates/cart/wc_delivery_page.php:34
+msgid "2.Customer Info"
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:35
+#: wc_templates/cart/wc_confirm_page.php:35
+#: wc_templates/cart/wc_customer_page.php:35
+#: wc_templates/cart/wc_delivery_page.php:35
+msgid "3.Deli. & Pay."
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:36
+#: wc_templates/cart/wc_confirm_page.php:36
+#: wc_templates/cart/wc_customer_page.php:36
+#: wc_templates/cart/wc_delivery_page.php:36
+msgid "4.Confirm"
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:45
+msgid "Press the `update` button when you change the amount of items."
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:45
+msgid "Quantity renewal"
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:51
+msgid "item name"
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:66
+#: wc_templates/cart/wc_confirm_page.php:64
+msgid "total items"
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:75
+msgid "Business package discount"
+msgstr ""
+
+#: wc_templates/cart/wc_cart_page.php:75
+msgid "The price with this mark applys to Business pack discount."
+msgstr ""
+
+#: wc_templates/cart/wc_completion_page.php:31
+msgid "It has been sent succesfully."
+msgstr ""
+
+#: wc_templates/cart/wc_completion_page.php:33
+msgid "Thank you for shopping."
+msgstr ""
+
+#: wc_templates/cart/wc_completion_page.php:33
+msgid "If you have any questions, please contact us by 'Contact'."
+msgstr ""
+
+#: wc_templates/cart/wc_completion_page.php:42
+#: wc_templates/member/wc_member_completion_page.php:56
+msgid "Back to the top page."
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:40
+msgid ""
+"Please do not change product addition and amount of it with the other window "
+"with displaying this page."
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:48
+msgid "No."
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:50
+msgid "Items"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:72
+msgid "Campaign discount"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:90
+#: wc_templates/cart/wc_confirm_page.php:124
+msgid "Used points"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:98
+msgid "Shipping"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:106
+msgid "COD fee"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:132
+msgid "Total Amount"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:145
+#: wc_templates/member/wc_member_page.php:47
+#: wc_templates/member/wc_member_page.php:91
+msgid "The current point"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:149
+msgid "Points you are using here"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:154
+msgid "Use the points"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:161
+msgid "Customer Information"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:164
+#: wc_templates/cart/wc_customer_page.php:48
+#: wc_templates/cart/wc_customer_page.php:66
+#: wc_templates/member/wc_login_page.php:35
+#: wc_templates/member/wc_lostpassword_page.php:35
+#: wc_templates/member/wc_member_page.php:51
+#: wc_templates/member/wc_member_page.php:62
+#: wc_templates/member/wc_member_page.php:80
+#: wc_templates/member/wc_member_page.php:110
+#: wc_templates/member/wc_new_member_page.php:45
+msgid "E-mail adress"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:176
+msgid "Others"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:179
+#: wc_templates/cart/wc_delivery_page.php:60
+msgid "shipping option"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:182
+#: wc_templates/cart/wc_delivery_page.php:64
+msgid "Delivery date"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:185
+#: wc_templates/cart/wc_delivery_page.php:68
+msgid "Delivery Time"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:188
+#: wc_templates/cart/wc_delivery_page.php:72
+msgid "payment method"
+msgstr ""
+
+#: wc_templates/cart/wc_confirm_page.php:192
+#: wc_templates/cart/wc_delivery_page.php:94
+msgid "Notes"
+msgstr ""
+
+#: wc_templates/cart/wc_customer_page.php:44
+msgid "The member please enter at here."
+msgstr ""
+
+#: wc_templates/cart/wc_customer_page.php:52
+#: wc_templates/cart/wc_customer_page.php:77
+#: wc_templates/member/wc_changepassword_page.php:35
+#: wc_templates/member/wc_login_page.php:39
+#: wc_templates/member/wc_member_page.php:114
+#: wc_templates/member/wc_new_member_page.php:53
+msgid "Password"
+msgstr ""
+
+#: wc_templates/cart/wc_customer_page.php:59
+msgid "The nonmember please enter at here."
+msgstr ""
+
+#: wc_templates/cart/wc_customer_page.php:66
+#: wc_templates/cart/wc_customer_page.php:70
+#: wc_templates/cart/wc_customer_page.php:77
+#: wc_templates/cart/wc_customer_page.php:81
+#: wc_templates/cart/wc_delivery_page.php:72
+#: wc_templates/member/wc_new_member_page.php:45
+#: wc_templates/member/wc_new_member_page.php:49
+#: wc_templates/member/wc_new_member_page.php:53
+#: wc_templates/member/wc_new_member_page.php:57
+msgid "*"
+msgstr ""
+
+#: wc_templates/cart/wc_customer_page.php:70
+#: wc_templates/member/wc_new_member_page.php:49
+msgid "E-mail address (confirm)"
+msgstr ""
+
+#: wc_templates/cart/wc_customer_page.php:78
+#: wc_templates/cart/wc_customer_page.php:82
+msgid "When you enroll newly, please fill it out."
+msgstr ""
+
+#: wc_templates/cart/wc_customer_page.php:81
+#: wc_templates/member/wc_changepassword_page.php:39
+#: wc_templates/member/wc_member_page.php:119
+#: wc_templates/member/wc_new_member_page.php:57
+msgid "Password (confirm)"
+msgstr ""
+
+#: wc_templates/cart/wc_delivery_page.php:44
+msgid "shipping address"
+msgstr ""
+
+#: wc_templates/cart/wc_delivery_page.php:45
+msgid "same as customer information"
+msgstr ""
+
+#: wc_templates/cart/wc_delivery_page.php:48
+msgid "Chose another shipping address."
+msgstr ""
+
+#: wc_templates/member/wc_changepassword_page.php:43
+msgid "Change password"
+msgstr ""
+
+#: wc_templates/member/wc_login_page.php:44
+msgid "Memorize login information"
+msgstr ""
+
+#: wc_templates/member/wc_login_page.php:51
+msgid "Did you forget your password?"
+msgstr ""
+
+#: wc_templates/member/wc_login_page.php:53
+msgid "New enrollment for membership."
+msgstr ""
+
+#: wc_templates/member/wc_lostpassword_page.php:39
+msgid "Obtain new password"
+msgstr ""
+
+#: wc_templates/member/wc_lostpassword_page.php:42
+#: wc_templates/member/wc_member_completion_page.php:45
+msgid "Change your password by following the instruction in this mail."
+msgstr ""
+
+#: wc_templates/member/wc_lostpassword_page.php:45
+msgid "Log-in"
+msgstr ""
+
+#: wc_templates/member/wc_member_completion_page.php:36
+msgid "Thank you in new membership."
+msgstr ""
+
+#: wc_templates/member/wc_member_completion_page.php:40
+msgid "Membership information has been updated."
+msgstr ""
+
+#: wc_templates/member/wc_member_completion_page.php:44
+msgid "I transmitted an email."
+msgstr ""
+
+#: wc_templates/member/wc_member_completion_page.php:49
+msgid "Password has been changed."
+msgstr ""
+
+#: wc_templates/member/wc_member_completion_page.php:55
+msgid "to vist membership information page"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:33
+msgid "Member information"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:36
+#: wc_templates/member/wc_member_page.php:72
+msgid "Member number"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:38
+#: wc_templates/member/wc_member_page.php:84
+msgid "Strated date"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:45
+#: wc_templates/member/wc_member_page.php:60
+#: wc_templates/member/wc_member_page.php:76
+msgid "Full name"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:48
+#: wc_templates/member/wc_member_page.php:92
+msgid "point"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:48
+#: wc_templates/member/wc_member_page.php:92
+msgid "points"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:100
+msgid "Purchase history"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:105
+msgid "Member information editing"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:116
+#: wc_templates/member/wc_member_page.php:121
+msgid "Leave it blank in case of no change."
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:129
+msgid "Update it"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:130
+msgid "Delete it"
+msgstr ""
+
+#: wc_templates/member/wc_member_page.php:130
+msgid "All information about the member is deleted. Are you all right?"
+msgstr ""
+
+#: wc_templates/member/wc_new_member_page.php:31
+msgid "About member registration"
+msgstr ""
+
+#: wc_templates/member/wc_new_member_page.php:33
+msgid ""
+"All your personal information will be protected and handled with carefull "
+"attention."
+msgstr ""
+
+#: wc_templates/member/wc_new_member_page.php:34
+msgid ""
+"Your information is entrusted to us for the purpose of providing information "
+"and respond to your requests, but to be used for any other purpose. More "
+"information, please visit our Privacy Notice."
+msgstr ""
+
+#: wc_templates/member/wc_new_member_page.php:35
+msgid "The items marked with *, are mandatory. Please complete."
+msgstr ""
+
+#: wc_templates/member/wc_new_member_page.php:36
+msgid "Please use Alphanumeric characters for numbers."
+msgstr ""
+
+#: wc_templates/wc_item_single.php:104
+msgid "List price"
+msgstr ""
+
+#: wc_templates/wc_item_single.php:108
+msgid "Selling price"
+msgstr ""
+
+#: wc_templates/wc_item_single.php:123
+msgid "Add to Cart"
+msgstr ""
+
+#: wc_templates/wc_item_single.php:127
+msgid "SOLD OUT"
+msgstr ""
+
+#: wc_templates/wc_search_page.php:28
+msgid "Categories: AND Search"
+msgstr ""
+
+#: wc_templates/wc_search_page.php:33 widget/google_search.php:45
+msgid "Search"
+msgstr ""
+
+#: wc_templates/wc_search_page.php:156
+msgid "The item was not found."
+msgstr ""
+
+#: widget/ad.php:10
+msgid "AdSense (tcd ver)"
+msgstr ""
+
+#: widget/ad.php:13
+msgid "Show AdSense at random in front page."
+msgstr ""
+
+#: widget/ad.php:69
+msgid "One out of three AdSense will be displayed at random in front page."
+msgstr ""
+
+#: widget/ad.php:72
+msgid "AdSense"
+msgstr ""
+
+#: widget/ad.php:75
+msgid "Register AdSense code"
+msgstr ""
+
+#: widget/ad.php:76
+msgid ""
+"If you are using Google AdSense or similar kind of AdSense, enter all code "
+"below."
+msgstr ""
+
+#: widget/ad.php:79
+msgid ""
+"If you want to register banner image and affiliate code individually, leave "
+"the field above blank and use the field below."
+msgstr ""
+
+#: widget/ad.php:81
+msgid "Register AdSense image"
+msgstr ""
+
+#: widget/ad.php:98
+msgid "Register affiliate code or link url for registered image"
+msgstr ""
+
+#: widget/archive_list.php:14
+msgid "Displays designed archive dropdown menu."
+msgstr ""
+
+#: widget/archive_list.php:19
+msgid "Archive list (tcd ver)"
+msgstr ""
+
+#: widget/archive_list.php:42
+msgid "Select Month"
+msgstr ""
+
+#: widget/archive_list.php:64 widget/category_list.php:67
+#: widget/google_search.php:50 widget/item_category.php:169
+#: widget/site_info.php:244 widget/styled_post_list_tab.php:266
+#: widget/styled_post_list_tab.php:290
+msgid "Title:"
+msgstr ""
+
+#: widget/category_list.php:10
+msgid "Category list (tcd ver)"
+msgstr ""
+
+#: widget/category_list.php:13
+msgid "Displays designed category list."
+msgstr ""
+
+#: widget/category_list.php:71 widget/item_category.php:208
+msgid "Categories To Exclude:"
+msgstr ""
+
+#: widget/category_list.php:73 widget/item_category.php:210
+msgid ""
+"Enter a comma-seperated list of category ID numbers, example 2,4,10<br /"
+">(Don't enter comma for last number)."
+msgstr ""
+
+#: widget/category_list.php:77
+msgid "Exclude welcart categories"
+msgstr ""
+
+#: widget/google_search.php:10
+msgid "Google Custom Search (tcd ver)"
+msgstr ""
+
+#: widget/google_search.php:13
+msgid "Displays Google Custom Search form."
+msgstr ""
+
+#: widget/google_search.php:48
+msgid ""
+"If you want to use google custom search for your WordPress, enter your "
+"google custom search ID.<br><a href=\"http://www.google.com/cse/\" target="
+"\"_blank\">Read more about Google custom search page.</a>"
+msgstr ""
+
+#: widget/google_search.php:54
+msgid "Google custom search ID"
+msgstr ""
+
+#: widget/item_category.php:13
+msgid "Item Category (tcd ver)"
+msgstr ""
+
+#: widget/item_category.php:16
+msgid "Displays designed welcart item category."
+msgstr ""
+
+#: widget/item_category.php:173
+msgid "Parent category:"
+msgstr ""
+
+#: widget/item_category.php:205
+msgid ""
+"When displaying the item category archive, display the child categories of "
+"the displaying item category."
+msgstr ""
+
+#: widget/site_info.php:51
+msgid "Site info (tcd ver)"
+msgstr ""
+
+#: widget/site_info.php:54
+msgid "Displays site info."
+msgstr ""
+
+#: widget/site_info.php:242
+msgid "The display style varies depending on where you display the widget"
+msgstr ""
+
+#: widget/site_info.php:248
+msgid "Title font size:"
+msgstr ""
+
+#: widget/site_info.php:252
+msgid "Title font size for mobile:"
+msgstr ""
+
+#: widget/site_info.php:256
+msgid "Image / logo"
+msgstr ""
+
+#: widget/site_info.php:274
+msgid "Use retina display logo image in footer widget"
+msgstr ""
+
+#: widget/site_info.php:278
+msgid "Image link URL"
+msgstr ""
+
+#: widget/site_info.php:301
+msgid "Button link URL"
+msgstr ""
+
+#: widget/site_info.php:309
+msgid "Use SNS button settings from theme options."
+msgstr ""
+
+#: widget/site_info.php:314
+msgid "Your Instagram URL:"
+msgstr ""
+
+#: widget/site_info.php:338
+msgid "Your contact page URL (You can use mailto:)"
+msgstr ""
+
+#: widget/styled_post_list_tab.php:29
+msgid "Recent item"
+msgstr ""
+
+#: widget/styled_post_list_tab.php:61
+msgid "Styled post list (tcd ver)"
+msgstr ""
+
+#: widget/styled_post_list_tab.php:64
+msgid "Displays styled post list."
+msgstr ""
+
+#: widget/styled_post_list_tab.php:295
+msgid "Post type:"
+msgstr ""
+
+#: widget/styled_post_list_tab.php:305
+msgid "Category:"
+msgstr ""
+
+#: widget/styled_post_list_tab.php:321
+msgid "Number of post:"
+msgstr ""
+
+#: widget/styled_post_list_tab.php:325
+msgid "Post order:"
+msgstr ""
+
+#: widget/styled_post_list_tab.php:352
+msgid "If displayed only one tab, hide tab"
+msgstr ""
+
+#~ msgid "Feature posts"
+#~ msgstr "注目記事"
+
+#~ msgid "Special posts"
+#~ msgstr "特集記事"
+
+#~ msgid ""
+#~ "<a href=\"%s\" target=\"_blank\">Welcart e-Commerce</a> is not installed "
+#~ "or inactive. Current theme required Welcart e-Commerce."
+#~ msgstr ""
+#~ "<a href=\"%s\" target=\"_blank\">Welcart e-Commerce</a>がインストールされ"
+#~ "ていないか有効になっていません。このテーマはWelcart e-Commerceが必須となっ"
+#~ "ています。"
+
+#~ msgid ""
+#~ "If you activate this theme on a site that you have used TCD theme so far, "
+#~ "sample elements will not be added unless you do \"Reset execution with "
+#~ "option item checked\"."
+#~ msgstr ""
+#~ "※これまでにTCDテーマをご利用いただいたことがあるサイトで当テーマを有効化し"
+#~ "た場合、「オプション項目にチェックを入れてリセット実行」を行わない限り、サ"
+#~ "ンプル要素が追加されることはありません。"
+
+#~ msgid ""
+#~ "Initialize the TCD theme option.Please note that all current settings "
+#~ "will be deleted."
+#~ msgstr ""
+#~ "TCDテーマオプションを初期化します。現在の設定値は全て削除されますのでご注"
+#~ "意ください。"
+
+#~ msgid "Be sure to check the following PDF manual before executing."
+#~ msgstr ""
+#~ "<b>※実行する前に必ず<a href=\"#\">テーマオプション管理マニュアル</a>をご確"
+#~ "認ください。</b>"
+
+#~ msgid ""
+#~ "Import the TCD theme option.Please specify JSON file (. Json) exported "
+#~ "from TCD theme."
+#~ msgstr ""
+#~ "TCDテーマオプションの設定をインポートします。TCDテーマからエクスポートした"
+#~ "JSONファイル(.json)を指定してください。"
+
+#~ msgid ""
+#~ "\"Sentences to encourage member registration\" is displayed under "
+#~ "excerpts."
+#~ msgstr ""
+#~ "「会員登録への誘導文」は抜粋の下（ボタンとパスワード入力項目の上部）に表示"
+#~ "されます。"
+
+#~ msgid "Page header setting"
+#~ msgstr "ページヘッダー設定"
+
+#~ msgid "To set related item, enter the item code in the tag."
+#~ msgstr "関連商品を設定するにはタグに商品コードを入力して下さい。"
+
+#~ msgid ""
+#~ "Set up product page. Please add products before doing the following "
+#~ "settings."
+#~ msgstr ""
+#~ "商品ページの設定を行います。以下の設定を行う前に商品の追加を行ってくださ"
+#~ "い。"
+
+#~ msgid "You can set number of posts of archive page."
+#~ msgstr ""
+#~ "アーカイブページの記事数と、各項目の表示/非表示を設定します。表示する項目"
+#~ "にチェックを入れてください。"
+
+#~ msgid ""
+#~ "You can set number of posts of archive page. Please check items to "
+#~ "display."
+#~ msgstr ""
+#~ "お知らせアーカイブページの記事数と、各項目の表示/非表示を設定します。表示"
+#~ "する項目にチェックを入れてください。"
+
+#~ msgid ""
+#~ "You can set font size and color and styles for pagenation of single page."
+#~ msgstr ""
+#~ "ブログ記事詳細ページの記事タイトルおよび記事本文のフォントサイズ/フォント"
+#~ "色の設定、ページ分割の表示スタイルの設定を行います。"
+
+#~ msgid "Recent news will be displayed at the bottom of news post page."
+#~ msgstr "ニュース記事詳細ページの下部に表示されます。"
+
+#~ msgid "Related posts will be displayed at the bottom of Pickup posts."
+#~ msgstr "記事詳細ページ下部に表示されます。"
+
+#~ msgid ""
+#~ "You can set font size and color and styles for pagenation of blog single "
+#~ "page."
+#~ msgstr ""
+#~ "ブログ記事詳細ページの記事タイトルおよび記事本文のフォントサイズ/フォント"
+#~ "色の設定、ページ分割の表示スタイルの設定を行います。"
+
+#~ msgid "Blog setting"
+#~ msgstr "パンくずリスト設定"
+
+#~ msgid "News setting"
+#~ msgstr "パンくずリスト / スラッグ設定"
+
+#~ msgid "Recent blog"
+#~ msgstr "最新記事一覧"
+
+#~ msgid "Please set the hover effect for thumbnail images."
+#~ msgstr ""
+#~ "サムネイルのホバーエフェクトを3タイプから選択できます。<br>なお、アフィリ"
+#~ "エイトASPなどの規約に抵触する可能性がある為、広告スペースに入力したサムネ"
+#~ "イルにはホバーエフェクトは付きません。"
+
+#~ msgid "These fields are used for Site Info Widget"
+#~ msgstr "これらのフィールドはサイト情報ウィジェットで使用します。"

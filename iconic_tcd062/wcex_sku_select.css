@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+/* WCEX SKU Select CSS */
+
+.p-entry-item__cart-item-sku { margin-bottom: 14px; }
+
+dl.item-sku { border: none; display: block; }
+dl.item-sku::after { clear: both; content: " "; display: table; }
+dl.item-sku dt { background: none; border: none; clear: both; display: inline-block; float: left; font-weight: normal; margin-right: 1em; margin-top: 2px; padding: 0; }
+dl.item-sku dd { border: none; display: inline-block; float: left; margin-bottom: 14px; margin-top: -2px; padding: 0; }
+dl.item-sku dd:last-child { margin-bottom: 0; }
+dl.item-sku dd select { border: 1px solid #ddd; padding: 6px 8px; }
+dl.item-sku dd input[type="radio"] { display: none; }
+dl.item-sku dd label { color: #000; cursor: pointer;  border: 2px solid #ddd; display: inline-block; margin-bottom: 4px; padding: 1px 21px; -webkit-transition: border-color 0.2s ease; -moz-transition: border-color 0.2s ease; -ms-transition: border-color 0.2s ease; transition: border-color 0.2s ease; }
+dl.item-sku dd input[type="radio"]:checked + label, dl.item-sku dd label:hover { border: 3px solid #0097cc; padding: 0 20px; }
+
+table.item-sku { margin: 0; }
+table.item-sku th { background: #f0f0f0; border: 1px solid #ddd; }
+table.item-sku td { background: #fff; border: 1px solid #ddd; }
+
+@media only screen and (max-width: 767px) {
+	.p-entry-item__cart-item-sku { overflow-x: auto; }
+}

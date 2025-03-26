@@ -1,0 +1,128 @@
+/* CSS Document */
+
+/* = Common
+-------------------------------------------------------------- */
+
+/* = wc_item_single
+-------------------------------------------------------------- */
+#wc_regular {
+	background-color: transparent;
+	border: #ddd 1px solid;
+	margin-top: 60px;
+	padding: 0;
+}
+#wc_regular .p-headline {
+	font-weight: bold;
+	margin-bottom: 0;
+}
+#wc_regular .inside {
+	margin-top: 0;
+	padding: 40px;
+}
+#wc_regular .skuform {
+	overflow-x: auto;
+}
+#wc_regular .skumulti {
+	margin-bottom: 0 !important;
+}
+#wc_regular .item-sku,
+#wc_regular .field {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	-ms-grid-row-align: center;
+	-webkit-align-items: center;
+	align-items: center;
+	margin-bottom: 1.2em;
+}
+#wc_regular .item-sku > *:nth-child(odd),
+#wc_regular .field > *:nth-child(odd) {
+	margin-right: 20px;
+}
+#wc_regular .item-sku > *:nth-child(even),
+#wc_regular .field > *:nth-child(even) {
+	margin-right: 40px;
+}
+#wc_regular .item-sku > *:last-child,
+#wc_regular .field > *:last-child {
+	margin-right: 0;
+}
+#wc_regular .skuquantity {
+	border: 1px solid #ddd;
+	line-height: 33px;
+	margin-left: 8px;
+	margin-right: 20px;
+	padding: 5px 5px 5px 8px;
+	width: 100px;
+}
+#wc_regular td .skuquantity {
+	margin-left: 0;
+	margin-right: 0;
+	max-width: 100px;
+	min-width: 64px;
+	width: 100%;
+}
+#wc_regular td.quant,
+#wc_regular td.button {
+	text-align: center;
+}
+#wc_regular td.zaiko {
+	white-space: nowrap;
+}
+
+@media (max-width: 991px) {
+	#wc_regular {
+		margin-top: 30px;
+	}
+	#wc_regular .p-headline {
+		font-size: 16px;
+	}
+	#wc_regular .inside {
+		padding: 30px;
+	}
+}
+@media (max-width: 499px) {
+	#wc_regular .skubutton {
+		display: block;
+		margin-top: 24px;
+		width: 100%;
+	}
+	#wc_regular td .skubutton {
+		margin-top: 0;
+	}
+}
+
+/* = cart
+-------------------------------------------------------------- */
+.regular_info {
+	color: #F60;
+}
+.regular_info_title {
+	line-height: inherit;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+/* = history
+-------------------------------------------------------------- */
+.continuation {
+	color: #008000;
+	font-weight: bold;
+}
+.stop {
+	color: #800000;
+	font-weight: bold;
+}
+.termination {
+	color: #0000ff;
+	font-weight: bold;
+}
+.p-wc-autodelivery_history .inside > table:first-child {
+	margin-bottom: -1px;
+}
+.p-wc-autodelivery_history + .p-wc-member_submenu {
+	margin-top: 40px;
+}

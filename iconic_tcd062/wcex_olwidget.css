@@ -1,0 +1,33 @@
+/*************************************/
+/*   WCEX Order List Widget Style
+/*************************************/
+table.olwadmintable{
+	margin-top: 0px;
+}
+
+.sidebar .widget_wcex_olwidget .widget_title {
+	height: 30px;
+	padding-top: 0px;
+}
+
+.olwimg img {
+	height: auto;
+	width: 50px;
+    margin-right: 10px;
+}
+
+.olwidget_orderdata_table {
+	width: 100%;
+}
+.olwidget_orderdata_table td {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #dddddd;
+    padding: 8px 0;
+    vertical-align: middle;
+    font-size: 14px;
+    line-height: 1.3;
+}
+.olw_state { margin-right: 10px; }
+.olwidget_orderdata_table td.olw_member { margin-right: 10px; }
+.olw_amount { color: #d80000; }
